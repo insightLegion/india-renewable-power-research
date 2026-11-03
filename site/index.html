@@ -1,0 +1,207 @@
+<title>India's Midday Surplus</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column (~68ch) with full-width figure plates; a ruled "grid log" feel, like a dispatch report */
+:root {
+  --bg: #f7f8f6;
+  --plate: #fcfcfb;          /* matches the chart PNG surface */
+  --ink: #12161c;
+  --ink-2: #4a525c;
+  --rule: #d9ddd8;
+  --solar: #c9561f;          /* midday amber-orange, used sparingly */
+  --grid: #245f9e;           /* transmission blue for links */
+  --flag: #b23a3a;
+  --chip: #eef0ec;
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body: "Literata", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12151a; --plate: #fcfcfb; --ink: #e9ebe7; --ink-2: #a9b0b8; --rule: #2c323a;
+    --solar: #ee8a55; --grid: #7fb0ea; --flag: #ef7f7f; --chip: #1d222a; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12151a; --plate: #fcfcfb; --ink: #e9ebe7; --ink-2: #a9b0b8; --rule: #2c323a;
+  --solar: #ee8a55; --grid: #7fb0ea; --flag: #ef7f7f; --chip: #1d222a; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 400 17px/1.65 var(--body); }
+.wrap { max-width: 1120px; margin: 0 auto; padding-block: 40px 72px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.col { max-width: 68ch; }
+a { color: var(--grid); text-underline-offset: 2px; }
+a:focus-visible { outline: 2px solid var(--grid); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; line-height: 1.12; margin: 0; }
+h1 { font-size: clamp(2.2rem, 5.5vw, 3.6rem); font-weight: 700; letter-spacing: -0.015em; }
+h2 { font-size: clamp(1.45rem, 3vw, 1.9rem); font-weight: 700; }
+h3 { font-size: 1.15rem; font-weight: 500; }
+p { margin: 0; }
+.eyebrow { font: 500 0.78rem/1.4 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+.mono { font-family: var(--mono); font-size: 0.86em; }
+.solar { color: var(--solar); }
+header.top { display: grid; gap: 18px; padding-bottom: 28px; border-bottom: 1px solid var(--rule); }
+.lede { font-size: 1.18rem; color: var(--ink); max-width: 62ch; }
+.meta { font: 400 0.82rem/1.5 var(--mono); color: var(--ink-2); }
+
+/* the day in numbers: a log strip, not cards */
+.strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 0;
+  border-bottom: 1px solid var(--rule); margin-bottom: 8px; }
+.strip div { padding: 18px 16px 18px 0; display: grid; gap: 4px; align-content: start; min-width: 0; }
+.strip b { font: 700 1.75rem/1 var(--display); font-variant-numeric: tabular-nums; }
+.strip span { font-size: 0.86rem; color: var(--ink-2); line-height: 1.4; }
+
+section { display: grid; gap: 18px; padding-top: 52px; }
+figure { margin: 0; display: grid; gap: 10px; }
+figure .plate { background: var(--plate); border: 1px solid var(--rule); border-radius: 6px; padding: 10px; overflow-x: auto; }
+figure img { display: block; width: 100%; height: auto; max-width: 100%; min-width: 640px; }
+figcaption { font-size: 0.9rem; color: var(--ink-2); max-width: 80ch; }
+.take { display: grid; gap: 10px; }
+.take li { margin-bottom: 6px; }
+ul, ol { margin: 0; padding-left: 1.2em; }
+
+.leads { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 28px 40px; }
+.lead { display: grid; gap: 8px; align-content: start; min-width: 0; padding-top: 14px; border-top: 2px solid var(--ink); }
+.lead p { font-size: 0.97rem; }
+.lead .q { font-size: 0.9rem; color: var(--ink-2); }
+
+.tbl { overflow-x: auto; border-top: 1px solid var(--rule); }
+table { border-collapse: collapse; width: 100%; font-size: 0.9rem; min-width: 640px; }
+th, td { text-align: left; vertical-align: top; padding: 10px 12px 10px 0; border-bottom: 1px solid var(--rule); }
+th { font: 500 0.74rem/1.3 var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-2); }
+td.n { font-family: var(--mono); color: var(--flag); white-space: nowrap; }
+.na { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px 32px; }
+.na p { font-size: 0.93rem; }
+.chip { display: inline-block; font: 500 0.72rem/1 var(--mono); padding: 4px 7px; border-radius: 3px; background: var(--chip); color: var(--ink-2); letter-spacing: 0.04em; }
+footer { padding-top: 56px; display: grid; gap: 10px; font-size: 0.9rem; color: var(--ink-2); }
+footer code { font-family: var(--mono); font-size: 0.84em; word-break: break-all; }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <p class="eyebrow">India power system · research notes · data to 3 Nov 2026</p>
+    <h1>India's midday surplus: <span class="solar">₹0 power</span>, curtailed solar, and a ₹10 evening</h1>
+    <p class="lede">Solar capacity grew 24-fold in a decade. At midday the grid now regularly has more power than it can use or move. Exchange prices collapse, Grid-India orders plants to back down, and a few hours later the same market hits its price cap.</p>
+    <p class="meta">Sources: CEA, MNRE, Grid-India, IEX, CERC, Ember, IEEFA/JMK. 470 sources registered. Derived figures are labelled.</p>
+  </header>
+
+  <div class="strip" aria-label="Key figures">
+    <div><b>171 GW</b><span>solar installed, 30 Sep 2026 (CEA), up from 2.6 GW in Mar 2014</span></div>
+    <div><b>1,443</b><span>IEX day-ahead 15-min blocks at ≤ ₹1/kWh in 2025, up from 5 in 2023</span></div>
+    <div><b>₹0.00</b><span>real-time market price in 21 blocks on 1 May, 5 Jul and 27 Oct 2026</span></div>
+    <div><b>140.8 GWh</b><span>wind and solar curtailed on 2 May 2026, the worst day on record</span></div>
+    <div><b>14.5 GWh</b><span>operational battery storage, 30 Sep 2026 (CEA)</span></div>
+  </div>
+
+  <section id="graph-1">
+    <p class="eyebrow">Graph 1</p>
+    <h2>Capacity grew fast, and generation kept pace</h2>
+    <figure>
+      <div class="plate"><a href="graphs/graph1_capacity_vs_generation.png" target="_blank" rel="noopener"><img src="graphs/graph1_capacity_vs_generation.png" alt="Four panels: installed solar and wind capacity 2015–2025, annual generation, implied annual capacity factor, and monthly capacity factor from CEA 2018–2026." loading="lazy"></a></div>
+      <figcaption>Ember yearly data (A–C) and CEA monthly reports (D). Capacity factor = generation ÷ average capacity × hours (derived). Ember's 2019 solar figure repeats 2018's and is flagged on the chart. Tap the chart to open it full size.</figcaption>
+    </figure>
+    <ul class="take col">
+      <li>Solar went from 5.7 to 136 GW (2015→2025, Ember) and generation from 7 to 195 TWh.</li>
+      <li>Solar output per GW has held near 19% a year since 2022. The monthly figure in mid-2025 and mid-2026 is the lowest since 2018, when curtailment peaked.</li>
+    </ul>
+  </section>
+
+  <section id="graph-2">
+    <p class="eyebrow">Graph 2</p>
+    <h2>More wind and solar, cheaper midday power</h2>
+    <figure>
+      <div class="plate"><a href="graphs/graph2_re_generation_vs_prices.png" target="_blank" rel="noopener"><img src="graphs/graph2_re_generation_vs_prices.png" alt="Wind plus solar share of generation, average day-ahead price in solar versus other hours, monthly count of blocks at or below ₹1/kWh, and a density plot of 15-minute renewable share against price." loading="lazy"></a></div>
+      <figcaption>IEX 15-minute market clearing prices (DAM from 2015, RTM from Jun 2020). Ember monthly generation shares. Grid-India 15-minute SCADA from Nov 2024, joined block by block to DAM prices.</figcaption>
+    </figure>
+    <ul class="take col">
+      <li>Since 2021 solar-hour prices have sat below other hours. The gap reached ₹4.24/kWh in 2026.</li>
+      <li>Very low prices also happened in 2015–17, but at night. Since 2024 they come at midday: 1,329 of 2025's 1,443 low blocks fell between 09:00 and 17:00.</li>
+      <li>In the 15-minute data, once wind and solar pass about 30% of demand, the median day-ahead price drops below ₹2/kWh.</li>
+    </ul>
+  </section>
+
+  <section id="graph-3">
+    <p class="eyebrow">Graph 3</p>
+    <h2>Curtailment is outrunning storage and transmission</h2>
+    <figure>
+      <div class="plate"><a href="graphs/graph3_curtailment_vs_storage_grid.png" target="_blank" rel="noopener"><img src="graphs/graph3_curtailment_vs_storage_grid.png" alt="Monthly curtailed energy by reason since January 2025; worst curtailment day each month versus operational battery energy; and connected capacity versus firm access and T-GNA limits at the Rajasthan and Khavda complexes." loading="lazy"></a></div>
+      <figcaption>Grid-India daily VRE reports: Section 8 (curtailment) and Section 9 (emergency TRAS down), summed by month (derived). CEA monthly BESS reports. Grid-India T-GNA margin statements, Nov 2025–Oct 2026.</figcaption>
+    </figure>
+    <ul class="take col">
+      <li>Official curtailment data starts only in January 2025. The worst month was October 2025 at 952 GWh.</li>
+      <li>Batteries total 14.5 GWh, about a tenth of the worst curtailment day.</li>
+      <li>About 19 GW in Rajasthan and Khavda is connected but lacks firm transmission access.</li>
+    </ul>
+  </section>
+
+  <section id="leads">
+    <p class="eyebrow">What the cross-checks show</p>
+    <h2>Seven leads</h2>
+    <div class="leads">
+      <div class="lead"><h3>Curtailment and near-zero prices are the same event</h3>
+        <p>On days with more than 60 GWh curtailed, the median solar-hour day-ahead price was ₹0.81/kWh, and sell bids were 5.5 times buy bids. 88% of those days had a block at ≤ ₹1.</p>
+        <p class="q">Spearman ρ −0.64 across 592 days.</p></div>
+      <div class="lead"><h3>Coal kept running while solar was switched off</h3>
+        <p>On the heaviest curtailment days, midday thermal output was still about 110 GW, 67% of that day's peak. It then ramped about 49 GW into the evening. Grid frequency reached 50.2 Hz or more on 60% of those days.</p>
+        <p class="q">Ask: unit-level on-bar data and must-run decisions.</p></div>
+      <div class="lead"><h3>The reason column hides transmission</h3>
+        <p>Official reports name a transmission constraint for only 3% of curtailed energy. 73% is emergency "TRAS down" for grid security. Yet the most-curtailed sites are the Rajasthan and Khavda pooling stations that Grid-India's own access reports show to be short of transmission.</p>
+        <p class="q">The label decides who pays. Pending: CERC 846/MP/2025, 26/MP/2026.</p></div>
+      <div class="lead"><h3>Some curtailment is never counted</h3>
+        <p>At the tightest midday block, up to 6.7 GW in Rajasthan and 8.9 GW at Khavda is connected but not allowed to inject. These are planned limits, not real-time orders, and they don't appear in the curtailment tables.</p>
+        <p class="q">Official totals are probably a floor.</p></div>
+      <div class="lead"><h3>₹0 needs a holiday, for now</h3>
+        <p>The real-time market's ₹0 days fell on May Day (demand 33 GW below the week before), a Sunday (−25 GW, 102 GWh curtailed) and an ordinary Tuesday with 89.6 GW of wind and solar.</p>
+        <p class="q">The official reports for two of these days can't be obtained (see A1).</p></div>
+      <div class="lead"><h3>Floor-to-cap days are new</h3>
+        <p>Days with a midday price at ≤ ₹1 and an evening at the ₹10 cap: one in 2022, none in 2023, then 14 in 2024, 45 in 2025 and 44 in 2026 so far. Battery tariffs are about ₹2.1/kWh. Of the 35 GWh of subsidised (VGF) battery storage awarded, 0.5 GWh is commissioned.</p></div>
+      <div class="lead"><h3>The surplus outlived the demand slump</h3>
+        <p>2025 demand was weak, down 6% year on year in October, the record curtailment month. 2026 demand rebounded 11–21%, but curtailment stayed high. Monsoon wind became 31% of curtailment in July 2026.</p></div>
+    </div>
+  </section>
+
+  <section id="anomalies">
+    <p class="eyebrow">Problems in the official data</p>
+    <h2>Anomalies we found</h2>
+    <div class="tbl">
+      <table>
+        <thead><tr><th>#</th><th>What</th><th>Evidence</th></tr></thead>
+        <tbody>
+          <tr><td class="n">A1</td><td>Grid-India's report archive serves the wrong files</td><td>The links for 1, 2 and 3 May 2026 all open the 2 May report. The 30 Apr link opens 24 May. Nothing is listed for 26–27 Oct.</td></tr>
+          <tr><td class="n">A2</td><td>Values in MW typed into the MU column, repeated day after day</td><td>"407 MU" at Bhadla-2 and "503 MU" at Bikaner-2, identical on 28, 29 and 30 Jan 2025. 79 rows flagged.</td></tr>
+          <tr><td class="n">A3</td><td>Curtailment totals disagree</td><td>FY26: Ember 2.1 TWh against our 3.2 TWh. Sep 2026: JMK 379 GWh against 490.</td></tr>
+          <tr><td class="n">A4</td><td>Battery trackers disagree by more than 3×</td><td>Mar 2026: about 1.8 GWh (JMK/IEEFA, grid-scale) against 5.9 GWh (Mercom).</td></tr>
+          <tr><td class="n">A5</td><td>The CEA contradicts itself on inter-regional capacity</td><td>Mar 2024: 112,340 MW in one report, 118,740 MW in the next month's.</td></tr>
+          <tr><td class="n">A6</td><td>Ember repeats its 2018 solar generation for 2019</td><td>37.45 TWh in both years; CEA FY2019-20 is 50.1 TWh.</td></tr>
+          <tr><td class="n">A7</td><td>Printed RE share contradicts the report's own numbers</td><td>The PSP report shows 96.8% on 12 Mar 2024.</td></tr>
+          <tr><td class="n">A8</td><td>Grid-India's access reports change their station coverage</td><td>Rajasthan "commissioned" capacity drops 3.9 GW when two stations disappear from the list.</td></tr>
+          <tr><td class="n">A9</td><td>IEX shows placeholder prices for blocks with no trades</td><td>232 real-time blocks with no bids carry prices of ₹0 or ₹10/kWh. Without filtering, 2020-21 looks like it had ₹0 prices.</td></tr>
+          <tr><td class="n">A10</td><td>Duplicate daily reports on Grid-India's site</td><td>50 of 124 missing daily reports since 2019 are copies of a neighbouring day.</td></tr>
+          <tr><td class="n">A11</td><td>The CEA halves its own battery figure</td><td>Batteries commissioned in FY2025-26: 1,082.6 MWh (31 May report), then 574.6 MWh (30 Sep report).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="gaps">
+    <p class="eyebrow">Searched for, not found</p>
+    <h2>What isn't available</h2>
+    <div class="na">
+      <p><span class="chip">Curtailment</span><br>No official series before January 2025. The energy lost under T-GNA limits isn't reported anywhere.</p>
+      <p><span class="chip">Forecasts</span><br>Grid-India and the state dispatch centres publish no forecast-error statistics (MAPE or NRMSE), even though the 2023 grid code requires them.</p>
+      <p><span class="chip">Demand</span><br>No official 15-minute or hourly all-India series before 4 Nov 2024.</p>
+      <p><span class="chip">Prices</span><br>No day-ahead data before April 2012, and no regional prices for the real-time market.</p>
+      <p><span class="chip">Capacity</span><br>MNRE's monthly Physical Progress archive wasn't collected; CEA reports were used instead. State-level wind before 2024 covers only the top five states.</p>
+      <p><span class="chip">Storage</span><br>No official battery history before 2025, and no list of projects.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p><b>Data and code:</b> <a href="https://github.com/insightLegion/india-renewable-power-research" target="_blank" rel="noopener">github.com/insightLegion/india-renewable-power-research</a>. It holds the processed datasets, an Excel workbook, the source register with 470 links, discovery.md and all scripts.</p>
+    <p><b>Raw source documents and the full zip</b> are in B2: <code>s3://s1d-labs-trideep/from-box/india-renewable-power-research/</code></p>
+    <p>Units: MU = million kWh = GWh. ₹1/kWh = ₹1,000/MWh. "Solar hours" means 09:00–17:00 IST. FY runs April to March.</p>
+  </footer>
+</div>

@@ -6,6 +6,8 @@ Run:  eval "$(mybucket env --box)"; .venv/bin/python -I scripts/zip_all_sources.
 """
 import sys
 import zipfile
+from collections import deque
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
 
@@ -23,6 +25,8 @@ class MultipartWriter:
     def __init__(self, key):
         self.key, self.buf, self.parts, self.pos = key, bytearray(), [], 0
         self.uid = s3.create_multipart_upload(Bucket=BUCKET, Key=key, ContentType="application/zip")["UploadId"]
+        self.pool = ThreadPoolExecutor(3)  # parts upload in the background (max ~3 x 100 MB in flight)
+        self.futs = []
 
     def write(self, b):
         self.buf += b
@@ -39,13 +43,19 @@ class MultipartWriter:
         pass
 
     def _send(self, data):
-        n = len(self.parts) + 1
+        n = len(self.futs) + 1
+        while sum(not f.done() for f in self.futs) >= 3:
+            self.futs[[i for i, f in enumerate(self.futs) if not f.done()][0]].result()
+        self.futs.append(self.pool.submit(self._up, n, data))
+
+    def _up(self, n, data):
         r = s3.upload_part(Bucket=BUCKET, Key=self.key, PartNumber=n, UploadId=self.uid, Body=data)
-        self.parts.append({"PartNumber": n, "ETag": r["ETag"]})
+        return {"PartNumber": n, "ETag": r["ETag"]}
 
     def close(self):
         if self.buf:
             self._send(bytes(self.buf))
+        self.parts = [f.result() for f in self.futs]
         s3.complete_multipart_upload(Bucket=BUCKET, Key=self.key, UploadId=self.uid,
                                      MultipartUpload={"Parts": self.parts})
 
@@ -60,8 +70,14 @@ w = MultipartWriter(ZIP_KEY)
 total = 0
 try:
     with zipfile.ZipFile(w, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=6, allowZip64=True) as z:
+        fetch = ThreadPoolExecutor(16)
+        window = deque(fetch.submit(get_bytes, k) for k in keys[:24])
+        nxt = 24
         for i, k in enumerate(keys, 1):
-            data = get_bytes(k)
+            data = window.popleft().result()
+            if nxt < len(keys):
+                window.append(fetch.submit(get_bytes, keys[nxt]))
+                nxt += 1
             total += len(data)
             # PDFs/zips/xlsx/images are already compressed: store them
             stored = k.lower().endswith((".pdf", ".zip", ".xlsx", ".png", ".jpg", ".gz", ".xls", ".docx"))
