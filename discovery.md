@@ -161,6 +161,52 @@ Monthly energy met, year on year (derived from Grid-India PSP):
 
 **Open question:** why is surplus green power not flowing into the green market?
 
+## Lead 8: Sunday is worse than any weekday
+
+Curtailment and price collapse both peak on Sunday, when industrial and commercial demand drops but solar output doesn't (derived, `scripts/analysis/discovery_analysis.py` I13):
+
+| Day | Median curtailment (MU, all report days) | 2026 median DAM solar-hour price |
+|---|---|---|
+| Mon–Fri (range) | 1.1–3.6 | ₹2.14–2.46/kWh |
+| Saturday | 0.7 | ₹2.20/kWh |
+| **Sunday** | **8.7** | **₹1.59/kWh** |
+
+Sunday is also the only day with a positive median count of DAM blocks ≤ ₹1/kWh in 2026 (0.5, against 0 for every other weekday). Two of the three RTM ₹0 days (Lead 4) fell on a Sunday or a public holiday.
+
+**Reading:** the surplus is already large enough that a predictable, calendar-driven demand dip is enough to push the system into curtailment and near-zero prices. This is the cheapest kind of evidence for a demand-response or time-of-use tariff policy aimed at Sundays specifically — no new infrastructure required.
+
+## Lead 9: A second front, away from Rajasthan and Gujarat
+
+Lead 3 shows Rajasthan and Gujarat dominate curtailed energy. But Grid-India's entity-level data shows a second, smaller front in the south — Karnataka and Tamil Nadu wind, and Andhra Pradesh solar (derived, `scripts/analysis/discovery_analysis.py` I14):
+
+| Entity | State / corridor | Wind MU | Solar MU | Total MU |
+|---|---|---|---|---|
+| NPKunta | Andhra Pradesh (solar park) | 0.2 | 185.9 | 186.1 |
+| Kurnool | Andhra Pradesh (solar park) | 19.8 | 106.1 | 125.9 |
+| Tuticorin GIS | Tamil Nadu (wind, HVDC terminal) | 66.1 | 38.9 | 105.0 |
+| KOPPAL | Karnataka (wind/solar hybrid pooling) | 52.0 | 49.3 | 101.3 |
+| Karur | Tamil Nadu (wind corridor) | 30.7 | 0.8 | 31.5 |
+| GADAG | Karnataka (wind) | 28.6 | 0.2 | 28.8 |
+
+This matters for the pipeline too: Karnataka has 16.7 GW of RE under construction (Lead 10), more than is currently connected at several of these stations. If Rajasthan and Gujarat's transmission shortfall repeats in the south, Tuticorin, Karur and Koppal are the names to watch.
+
+## Lead 10: The pipeline is concentrated exactly where the grid is already short
+
+CEA's under-construction tracker (30 Sep 2026, CAP-004; state figures sum exactly to the national total) shows where the next wave of capacity is heading:
+
+| State | Under construction (MW) | Share of national total |
+|---|---|---|
+| **Rajasthan** | **52,074** | **37%** |
+| **Gujarat** | **37,413** | **27%** |
+| Karnataka | 16,734 | 12% |
+| Andhra Pradesh | 10,174 | 7% |
+| Maharashtra | 9,655 | 7% |
+| National total | 140,529 | 100% |
+
+**Rajasthan and Gujarat alone account for 64% of all renewable capacity under construction in India** — the same two states where Lead 3 shows up to 19 GW already connected without firm transmission access, and where CEA reports ISTS lines running 16–21 months late. Rajasthan's own under-construction total grew from 46.1 GW (Mar 2026) to 52.1 GW (Sep 2026) in six months — faster than any transmission build-out in the data.
+
+**Reading:** today's stranded-capacity problem (Lead 3) is not a backlog that transmission is catching up to. It is a flow problem getting a larger inflow every quarter, in the same two places.
+
 ---
 
 ## Anomalies in the official data
@@ -178,6 +224,7 @@ Monthly energy met, year on year (derived from Grid-India PSP):
 | A9 | **IEX returns placeholder prices for RTM "no-trade" blocks.** | 232 RTM blocks with zero bids show prices of ₹0 or ₹10,000/MWh (mostly 2020-21) | Without filtering, RTM appears to hit ₹0 in 2020-21. It didn't; the first real ₹0 was 1 May 2026. |
 | A10 | **Grid-India publishes duplicate PSP reports.** | 50 of 124 missing PSP days since 2019 are files on the site that duplicate the previous or next day | Gaps in the daily series. |
 | A11 | **CEA halves its own figure for BESS commissioned in FY2025-26.** | 1,082.6 MWh / 445.35 MW (CEA BESS report as on 31 May 2026) against 574.6 MWh / 193.35 MW (as on 30 Sep 2026) | No explanation is published. Treat historical BESS additions as provisional. |
+| A12 | **Grid-India's T-GNA complex report doesn't cover a state's whole fleet.** | Rajasthan's total installed RE was 47.0 GW (CEA/MNRE state-wise, 31 Mar 2026). The T-GNA report's "commissioned" figure for the Rajasthan ISTS RE complex, for the closest issues, was 20.4–24.3 GW — a gap of over 20 GW. | The T-GNA report names specific ISTS pooling stations (Fatehgarh, Bhadla, Bikaner); it is not a full state accounting. The stranded-capacity figures in Lead 3 (up to 10 GW without firm access) are a floor for Rajasthan, not its full exposure. We could not establish what covers the other ~20 GW: other access arrangements, intra-state connections, or stations this report simply doesn't name. |
 
 ---
 
@@ -187,6 +234,9 @@ Monthly energy met, year on year (derived from Grid-India PSP):
 - **Energy lost under T-GNA limits:** not reported anywhere. Lead 3 gives MW, not MWh.
 - **Forecast accuracy:** no official MAPE or NRMSE is published, although IEGC 2023 requires it. Our schedule-vs-actual deviation figure (solar 5.0%, wind 12.2%) is derived from daily energy and includes curtailment.
 - **Which plants were curtailed, and who holds their PPAs:** reports list pooling stations, not projects. Linking them to developers needs CERC petition records or RLDC schedules.
+- **The value of curtailed energy at PPA rates.** Valued at the IEX day-ahead solar-hour price (a floor, since most curtailed capacity sells under PPA, not on the exchange), curtailment from Jan 2025 to Nov 2026 was worth roughly ₹978 crore (₹336 crore in 2025, ₹643 crore to date in 2026; derived, `analysis/daily_curtailment_vs_prices.csv`). The actual cost to developers, and how much of it is compensated under the Must-Run Rules, is not published.
+- **Rooftop and behind-the-meter solar's share of the midday surplus.** Rooftop capacity (including PM Surya Ghar) was about 24.3 GW in Jan 2026 and 27.9 GW in Jun 2026 (CAP-021/045), but it shows up in grid data only as reduced demand, not as generation. The true midday supply surplus is therefore larger than Grid-India's generation figures show, and we could not quantify by how much.
+- **Why the T-GNA complex report's "commissioned" figure is well below a state's total installed RE capacity** (Anomaly A12).
 
 ## Method notes
 

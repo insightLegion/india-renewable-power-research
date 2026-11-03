@@ -241,3 +241,61 @@ print(irc[irc.period_start.str.startswith(("2024-03", "2024-04")) & irc.metric.s
 bess = st[(st.technology == "BESS") & st.metric.str.contains("energy", case=False) & (st.geography == "India")]
 print("\nBESS energy figures by source around 2026:")
 print(bess[bess.period_start >= "2025-12"][["period_start", "metric", "status", "value", "unit", "source_id"]].to_string())
+
+# ------------------------------------------------------------------ I12: money value of curtailment
+h("I12 Rough value of curtailed energy, at IEX solar-hour price (derived, lower bound)")
+val = j.copy()
+val["value_lost_cr"] = val.total * 1000 * val.dam_solar_rs_kwh * 1000 / 1e7  # MU->MWh (*1000); Rs/kWh->Rs/MWh (*1000); /1e7 = crore
+val["year"] = val.index.year
+print(val.groupby("year").value_lost_cr.sum().round(0).to_string())
+print("Total (Jan 2025 - latest), Rs crore:", round(val.value_lost_cr.sum(), 0),
+      "| at exchange price. PPA tariffs are typically lower than DAM solar-hour price in low-price periods,")
+print("so compensation at PPA rates (where owed) could differ materially; this is a floor, not an estimate of compensation due.")
+
+# ------------------------------------------------------------------ I13: weekday effect
+h("I13 Day-of-week effect on curtailment and prices")
+j["dow"] = j.index.day_name()
+order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+print("Median curtailment (MU) by weekday, all days with a report:")
+print(j.groupby("dow").total.median().reindex(order).round(1).to_string())
+d26 = dam[dam.index.year == 2026].copy()
+d26["dow"] = d26.index.day_name()
+print("\n2026 median DAM solar-hour price (Rs/kWh) by weekday:")
+print((d26.groupby("dow").avg_mcp_solar_0900_1700_rs_mwh.median() / 1000).reindex(order).round(2).to_string())
+print("\n2026 median DAM blocks <= Rs1/kWh by weekday:")
+print(d26.groupby("dow").n_blocks_le_1.median().reindex(order).to_string())
+
+# ------------------------------------------------------------------ I14: the second curtailment front (south)
+h("I14 Curtailment entities outside Rajasthan/Gujarat (Karnataka, Tamil Nadu wind; Andhra solar)")
+south = rc[rc.entity.isin(["Pugalur", "Karur", "Tuticorin GIS", "GADAG", "HIRIYUR", "KOPPAL", "Kurnool", "NPKunta"])]
+print(south.groupby("entity")[["wind_MU", "solar_MU"]].sum().round(1)
+      .assign(total=lambda d: d.sum(axis=1)).sort_values("total", ascending=False).to_string())
+print("\n(Pugalur/Karur/Tuticorin = Tamil Nadu wind corridor; GADAG/HIRIYUR/KOPPAL = Karnataka wind; "
+      "Kurnool/NPKunta = Andhra Pradesh solar parks)")
+
+# ------------------------------------------------------------------ I15: the pipeline concentration risk
+h("I15 Where the next wave of capacity is being built (CEA under-construction, state-wise)")
+uc = pp[(pp.metric == "re_under_construction_total") & (pp.period_start == "2026-09-30")].sort_values("value", ascending=False)
+nat_uc = uc[uc.geography == "India"].value.iloc[0]
+print(uc[uc.geography != "India"][["geography", "value", "unit"]].head(8).to_string())
+top2 = uc[uc.geography.isin(["Rajasthan", "Gujarat"])].value.sum()
+print(f"\nNational under-construction RE total (30 Sep 2026): {nat_uc:,.0f} MW")
+print(f"Rajasthan + Gujarat share: {top2:,.0f} MW = {top2/nat_uc*100:.0f}% of national under-construction capacity")
+print("\nRajasthan under-construction over time:")
+print(pp[(pp.geography == "Rajasthan") & (pp.metric == "re_under_construction_total")]
+      [["period_start", "value"]].to_string())
+
+# ------------------------------------------------------------------ I16: does the T-GNA report cover all state capacity?
+h("I16 T-GNA complex coverage vs total state installed capacity (Rajasthan)")
+raj_state = rd("capacity_storage/re_capacity_statewise.csv")
+raj_state = raj_state[raj_state.geography == "Rajasthan"]
+re_total = raj_state[(raj_state.metric == "re_capacity_incl_large_hydro") & (raj_state.period_start == "2026-03-31")]
+print("Rajasthan total installed RE (CEA/MNRE statewise, 31 Mar 2026):", re_total.value.values, re_total.unit.values)
+tgna_mar = pv.loc["Rajasthan ISTS RE"].reset_index()
+tgna_near = tgna_mar[tgna_mar.d.between("2026-02-15", "2026-03-15")]
+print("\nT-GNA 'connectivity_quantum_commissioned' for Rajasthan ISTS RE complex, issues near 1 Mar 2026:")
+print(tgna_near[["d", "connectivity_quantum_commissioned"]].to_string())
+print("\nGap: state-wide installed RE capacity substantially exceeds the T-GNA complex's 'commissioned' figure for the "
+      "same period. The T-GNA report names specific ISTS pooling stations (Fatehgarh/Bhadla/Bikaner), not all RE in "
+      "the state, so the complex-level stranded-capacity figures in Lead 3 are a subset of Rajasthan, not the whole "
+      "state's exposure. Cause of the gap (other access arrangements vs. untracked stations) is not established.")
