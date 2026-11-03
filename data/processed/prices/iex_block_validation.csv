@@ -1,0 +1,82 @@
+market,date,blocks,issue
+dam,2013-01-27,1,"block 1: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+dam,2012-08-01,0,day missing
+dam,ALL,511680,2012-04-01..2026-11-04; 5330 days; dup rows dropped 0
+rtm,2022-04-25,1,"block 13: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2022-04-25,1,"block 14: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2022-04-25,1,"block 29: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2022-04-25,1,"block 30: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2022-04-25,1,"block 31: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2022-04-25,1,"block 32: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2023-01-26,1,"block 69: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2023-01-26,1,"block 70: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2025-01-03,1,"block 13: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2025-01-03,1,"block 14: zero purchase bid reported but non-zero cleared volume (data anomaly, kept)"
+rtm,2024-07-17,94,"missing blocks [95, 96]"
+rtm,2026-11-03,94,"missing blocks [95, 96]"
+rtm,2020-06-01,6,no-trade blocks (zero bids & volume)
+rtm,2020-06-03,2,no-trade blocks (zero bids & volume)
+rtm,2020-06-04,6,no-trade blocks (zero bids & volume)
+rtm,2020-06-05,4,no-trade blocks (zero bids & volume)
+rtm,2020-06-06,12,no-trade blocks (zero bids & volume)
+rtm,2020-06-09,4,no-trade blocks (zero bids & volume)
+rtm,2020-06-10,4,no-trade blocks (zero bids & volume)
+rtm,2020-06-14,4,no-trade blocks (zero bids & volume)
+rtm,2020-06-26,2,no-trade blocks (zero bids & volume)
+rtm,2020-06-27,4,no-trade blocks (zero bids & volume)
+rtm,2020-07-02,2,no-trade blocks (zero bids & volume)
+rtm,2020-07-04,2,no-trade blocks (zero bids & volume)
+rtm,2020-07-15,6,no-trade blocks (zero bids & volume)
+rtm,2020-07-21,4,no-trade blocks (zero bids & volume)
+rtm,2020-07-27,2,no-trade blocks (zero bids & volume)
+rtm,2020-07-29,2,no-trade blocks (zero bids & volume)
+rtm,2020-08-14,2,no-trade blocks (zero bids & volume)
+rtm,2020-08-31,2,no-trade blocks (zero bids & volume)
+rtm,2020-09-02,2,no-trade blocks (zero bids & volume)
+rtm,2020-09-04,2,no-trade blocks (zero bids & volume)
+rtm,2020-09-05,2,no-trade blocks (zero bids & volume)
+rtm,2020-09-11,6,no-trade blocks (zero bids & volume)
+rtm,2020-09-12,4,no-trade blocks (zero bids & volume)
+rtm,2020-09-14,4,no-trade blocks (zero bids & volume)
+rtm,2020-10-06,4,no-trade blocks (zero bids & volume)
+rtm,2020-11-01,2,no-trade blocks (zero bids & volume)
+rtm,2020-11-08,2,no-trade blocks (zero bids & volume)
+rtm,2020-11-19,2,no-trade blocks (zero bids & volume)
+rtm,2021-01-14,2,no-trade blocks (zero bids & volume)
+rtm,2021-02-19,2,no-trade blocks (zero bids & volume)
+rtm,2021-03-22,6,no-trade blocks (zero bids & volume)
+rtm,2021-03-28,6,no-trade blocks (zero bids & volume)
+rtm,2021-03-29,6,no-trade blocks (zero bids & volume)
+rtm,2021-04-02,2,no-trade blocks (zero bids & volume)
+rtm,2021-05-27,2,no-trade blocks (zero bids & volume)
+rtm,2021-07-09,2,no-trade blocks (zero bids & volume)
+rtm,2021-07-17,2,no-trade blocks (zero bids & volume)
+rtm,2021-07-20,2,no-trade blocks (zero bids & volume)
+rtm,2021-08-13,6,no-trade blocks (zero bids & volume)
+rtm,2021-10-08,4,no-trade blocks (zero bids & volume)
+rtm,2021-11-24,4,no-trade blocks (zero bids & volume)
+rtm,2021-12-31,16,no-trade blocks (zero bids & volume)
+rtm,2022-03-28,4,no-trade blocks (zero bids & volume)
+rtm,2022-04-20,2,no-trade blocks (zero bids & volume)
+rtm,2022-04-25,4,no-trade blocks (zero bids & volume)
+rtm,2022-06-04,2,no-trade blocks (zero bids & volume)
+rtm,2022-09-06,6,no-trade blocks (zero bids & volume)
+rtm,2022-09-12,2,no-trade blocks (zero bids & volume)
+rtm,2022-11-29,2,no-trade blocks (zero bids & volume)
+rtm,2023-01-04,2,no-trade blocks (zero bids & volume)
+rtm,2023-03-18,6,no-trade blocks (zero bids & volume)
+rtm,2023-04-17,2,no-trade blocks (zero bids & volume)
+rtm,2023-05-15,2,no-trade blocks (zero bids & volume)
+rtm,2023-09-04,2,no-trade blocks (zero bids & volume)
+rtm,2024-02-21,2,no-trade blocks (zero bids & volume)
+rtm,2024-03-11,2,no-trade blocks (zero bids & volume)
+rtm,2024-04-17,2,no-trade blocks (zero bids & volume)
+rtm,2024-07-15,2,no-trade blocks (zero bids & volume)
+rtm,2024-12-05,2,no-trade blocks (zero bids & volume)
+rtm,2025-04-04,4,no-trade blocks (zero bids & volume)
+rtm,2025-04-09,2,no-trade blocks (zero bids & volume)
+rtm,2025-05-26,4,no-trade blocks (zero bids & volume)
+rtm,2026-04-15,8,no-trade blocks (zero bids & volume)
+rtm,2026-05-15,6,no-trade blocks (zero bids & volume)
+rtm,ALL,225308,2020-06-01..2026-11-03; 2347 days; dup rows dropped 0
+gdam,ALL,176160,2021-10-27..2026-11-04; 1835 days; dup rows dropped 0

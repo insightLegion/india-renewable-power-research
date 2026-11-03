@@ -1,0 +1,279 @@
+section,reason,n_rows,solar_MU,wind_MU
+emergency_tras_down,TRAS Down from NLDC,1685,2543.39,31.647
+emergency_tras_down,TRAS Down by NLDC,540,452.2,18.592
+emergency_tras_down,TRAS down by NLDC,81,38.28,11.111
+emergency_tras_down,TRAS applied in NR RE by NLDC,78,175.07,0.0
+curtailment,NOC has been revised due to transmission constraint,65,43.57,3.628
+emergency_tras_down,0,56,31.509999999999998,1.9500000000000002
+emergency_tras_down,Tras down by NLDC,51,46.44,32.25
+emergency_tras_down,TRAS Down,44,56.61,3.7
+curtailment,Due to high frequency and heavy underdrawal,39,110.167,23.62875
+curtailment,To control UD,33,117.815,34.118
+emergency_tras_down,Emergency TRAS down by NLDC,20,4.29,0.568
+emergency_tras_down,TRAS Emergency Down,20,15.600000000000001,1.969
+curtailment,To control Underdrawl,17,78.19,37.17
+emergency_tras_down,To contol high freq,16,11.5,0.0
+emergency_tras_down,TRAS down,15,0.5800000000000001,0.0
+curtailment,To control under drawl,14,74.98,34.33
+emergency_tras_down,TRAS Down By NLDC(cid:10),11,8.76,0.0
+curtailment,L at 220 KV Bikaner - Gajner I & II and O,11,12.01,1.3599999999999999
+curtailment,In view of the system requirement and grid security and stability,10,52.050000000000004,25.02
+curtailment,Due to tripping of 765kV Bikaner-Moga ckt2,10,0.38,0.0
+curtailment,To Control Under Drawl,9,85.81,11.56
+curtailment,To control Under Drawl,8,17.8687,5.682
+emergency_tras_down,TRAS Emergency Down by NLDC(cid:10),7,2.0100000000000002,0.0
+curtailment,To control heavy underdrawal (1230MW) at high frequency.,7,44.29,9.82
+curtailment,No Curtailment,7,1.54,0.08
+curtailment,L at 220 KV Bikaner - Gajner I & II,6,0.756,0.0
+curtailment,Due to forced outage of 765kV Moga Meerut,6,6.37,0.0
+curtailment,In view of the system requirement and grid security and stability RE Curtailment imposed.,6,39.36,17.759999999999998
+curtailment,To control underdrawl,5,30.89,15.18
+curtailment,To control Under drawal,5,18.23,8.309999999999999
+curtailment,Due to High Frequency and heavy underdrwal,5,38.498000000000005,1.22
+curtailment,Grid security (precautionary measures to avoid oscillation),5,0.53,0.0
+curtailment,Due to overloading of ICts at Bhadla and Bikaner,5,3.8,0.0
+curtailment,Due to outage of 765kV Bhadla2-Sikar2 ckt II,5,7.46,0.0
+curtailment,Due to oscillations in the grid,4,3.4,0.0
+curtailment,To control Under drawl,4,13.17,1.43
+curtailment,To control UD in view of system requirement,4,21.77,5.970000000000001
+curtailment,"Due to outage of 765kV Bhadla2-Sikar2 ckt 3,4",3,2.34,0.0
+curtailment,In view of system requirement and for grid securtiy and reliablility.,3,8.370000000000001,2.67
+curtailment,Due to outage(tripping) of 765kV Aligarh-Sikar2 ckt 2,3,0.39,0.0
+curtailment,L at 220 KV Bikaner - Gajner I & II and high frequency and heavy under drawl,3,10.892,2.31625
+curtailment,To Control Under drawl,3,16.72,1.98
+curtailment,In view of the system requirement due to high U,3,6.93,4.95
+curtailment,"D : -1289 MW, system average freq 50.05 Hz, All ISGS & SGS schedule to MTDL, Gujarat system heavy under drwal",3,15.1,2.3600000000000003
+curtailment,Due to high frequency and heavy underdrawl,3,2.56,5.16
+curtailment,Due to increase in Naldurg Wagdari line,3,0.402,0.0
+curtailment,NOC curtailled between 10:30 hrs to 15:00 hrs Due to Outage of 765kV Bikaner - Khetri Ckt-1,3,4.6,0.0
+curtailment,In view of the system requirement and continuous follow up for under drawl from WRLDC Guj U,2,1.754,1.3610000000000002
+curtailment,GTS Operated At 132kv Hasapur due to increase in loading of Naldurg-Wagdari Line 570Amp.,2,0.02738,0.0
+curtailment,Due to overloading of ICts at Bhadla and Over loading of 220 kV Gajner- Bikaner line,2,1.38,0.0
+curtailment,1. Wind - *) To ensure grid security (High Frequency and Huge Under Drawal) @ 09:00hrs DEV- (- 2515 MW) Freq - 50.25 Hz 2. Solar- *) To ensure grid security (High Frequency and Huge Under Drawal) @ 10:30 hrs DEV- (-2368 MW) Freq - 50.16 Hz,2,5.66,9.84
+curtailment,"1)Tripping of 132 kV Bale - South Solapur line on overload, Overloading of 132 kV Wagdari Naldurg line.2)Overloading of 132KV Naldurg Bale line . O",2,1.4,0.0
+curtailment,due to low voltage in system and as per mail received from NRLDC,2,1.6600000000000001,1.3800000000000001
+curtailment,Due to heavy under drawl,2,2.34,0.3
+curtailment,"D : -1500 MW, system freq 50.10-50.15 Hz, State & ISGS running MTDL, it is hereby instructed to curtail 20% of wind & 20 % solar generation with immediate effect from 13:10 hrs dtd.21.08.2025. release RE Curtailment 10% of wind & 10 % solar generation with effect from 14:10 hrs dtd.21.08.2025. release remaining RE Curtailment 10% of wind & 10 % solar generation with effect from 14:20 hrs dtd.21.08.2025.""",2,3.62,2.62
+curtailment,"D : -540 MW, system freq 50.09 Hz, State & ISGS running MTDL, it was instructed to curtail 20% of wind & 20 % solar generation with immediate effect from 12:14 to 14:30 hrs.",2,3.4,3.24
+curtailment,"L OF 400 KV KANKANI - MERTA LINE , 400 KV MERTA - HEERAPURA LINE AND ICT's OF 400 KV BHADLA",2,4.96,1.42
+curtailment,L at 220 KV Bikaner - Gajner I & II line,2,0.3,0.0
+curtailment,"D : -900 MW, system freq 50.31 Hz, it is hereby instructed to Curtail 15% of wind and 15% of solar generation with immediate effect from 10:39 hrs dtd. 30.05.2025. Thereafter additional 15% curtailed in wind & 15% in solar at 12:13 hrs.",2,8.51,7.16
+curtailment,In view of the system requirement and grid security and stability to contol underdrawl,2,4.94,3.09
+curtailment,To control heavy under drawl and to maintain grid reliability,2,15.64,6.04
+curtailment,Curtailed to maintain grid security as per IEGC regulation,2,2.06,5.35
+curtailment,132KV Hasapur - Bale Line GTS Stage-1 operated,2,0.02,0.0
+emergency_tras_down,0.41,2,0.0,2.0
+emergency_tras_down,0.85,2,2.0,2.0
+curtailment,To control Underdrawl in view of the system requirement and grid security and stability,2,11.03,1.8599999999999999
+emergency_tras_down,TRAS Emergency down by NLDC,2,0.98,0.0
+curtailment,To control high frequency(50.30Hz) and heavy underdrawal (1800MW),2,2.95,0.77
+curtailment,To control high underdrawl,2,15.72,2.82
+curtailment,NOC curtailled between 10:30 hrs to 15:00 hrs due to outage of 765 KV bikaner khetri ckt-1,2,2.6,0.0
+curtailment,NOC curtailled between 10:30 hrs to 15:00 hrs due to outage of 765 KV bikaner khetri ckt-2,2,1.0,0.0
+curtailment,NOC curtailled between 10:30 hrs to 15:00 hrs Due to,2,1.3,0.0
+curtailment,To Control UnderDrawl,2,11.379999999999999,0.0
+curtailment,System Constraint,2,5.2509999999999994,3.8449999999999998
+curtailment,high frequency heavy under drawl,1,1.38,0.14
+emergency_tras_down,0.06,1,0.0,1.0
+emergency_tras_down,0.21,1,1.0,1.0
+emergency_tras_down,0.11,1,0.0,1.0
+curtailment,"1)Tripping of 132 kV Bale - South Solapur line on overload, Overloading of 132 kV Wagdari Naldurg line.2)Overloading",1,0.47,0.0
+curtailment,1) In view of the system requirement and grid security and stability,1,5.18,1.33
+emergency_tras_down,TRAS DOWN,1,0.39,0.0
+emergency_tras_down,Emergency TRAS down by NLDC(cid:10),1,0.0,0.004
+curtailment,"2103 MW, system freq 50.14 Hz ,state generation : 9032 MW, State & ISGS running MTDL, it is hereby instructed to curtail 50% of solar generation with immediate effect from 08:32 hrs dtd.20.03.2026 additional 20% of solar generation with immediate effect from 09:12 hrs dtd.20.03.2026 for grid security and reliability. to release RE curtailment 50% of Solar Generation with immediate effect from 15:02 hrs dtd. 20.03.2026 to release RE curtailment 20% of Solar Generation with immediate effect from 16:55 hrs dtd. 20.03.2026""",1,9.62,0.0
+curtailment,220kV Charanka-Jangral -2 trip & 220kV Charanka-Jangral -1 ESD due to above ICT-1 and ICT-2 at charanka got over loaded RE Curtailment done at local level from 11:25 to 16:30hrs,1,0.66,0.0
+curtailment,220kV Charanka-Jangral line trip due to ICT-1 and ICT-2 got over loaded Curtailment done at local level from 12:40 to 15:30hrs,1,0.3,0.0
+emergency_tras_down,TRAS Down by NLDC(cid:10)(cid:10)(cid:10)(cid:10),1,0.01,0.0
+curtailment,Due to forced outage of 765kV Moga Meerut and 400,1,2.05,0.0
+curtailment,Due to forced outage of 500MVA ICT-8 at Bhadla2(PG),1,1.08,0.0
+curtailment,Due to Overloading of 400 kV Kankni Merta Line,1,1.79,0.88
+curtailment,Due to N-1 loading of 400,1,0.02,0.0
+curtailment,Due to High frequency and Heavy Underdrawl,1,5.72,0.05
+curtailment,Due to ICT overloading,1,0.36,0.0
+curtailment,"Due to High Frequency & Heavy Underdrawal, ATC",1,3.187,0.137
+curtailment,Due to Gujarat system under drawl & SGS &ISGS sch to MTDL,1,1.42,0.74
+curtailment,Due to high frequency and heavy underdrawal and O,1,4.44,0.06
+curtailment,Due to high frequency and heavy under drawl and outage of 400 kV Akal - Jaisalmer ckt,1,0.27,0.39
+curtailment,Due to high frequency and under drawal.,1,1.76,0.3
+curtailment,Due to high frequency and heavy underdrwal,1,2.26,0.5
+curtailment,Due to high frequency under drwal,1,0.0,0.08
+curtailment,Due to high frequency & Heavy Underdrawl,1,0.0,0.37
+curtailment,Due to heavy underdrwal and high frequency,1,1.13,2.59
+curtailment,Due to heavy under drawl and high frequency,1,1.03,0.88
+curtailment,"Due to outage of 400 kV Akal-Jaisalmer-II line and Over loading of 400 kV Jaisalmer-Kankani-II , 220 kV Akal-Jaisalmer I&II line.",1,1.82,0.0
+curtailment,Due to outage of 220 kv Bikaner Gajner line and for compliance of N-1 as per direction received from NRLDC,1,1.63,1.19
+curtailment,Due to outage of 400 kV Kankani-Jaisamer-II and and overloading of 220 kV Akal-Jaisalmer-II lines,1,1.331,0.0
+curtailment,Due to outage of 400 kV Kankani-Jaisalmer-ll,1,0.099,0.0
+curtailment,Due to outage of Bhadla-Bikaner (RS) line,1,0.1,0.0
+curtailment,Due to outage of Merta Kankani line,1,0.0,0.1
+curtailment,Due to outage(tripping) of 765kV Aligarh-Sikar2 ckt 2(This Figure is for Bhadla3)),1,0.03,0.0
+curtailment,Due to outage(tripping) of 765kV Aligarh-Sikar2 ckt 2(This Figure is for Fatehgarh4),1,0.03,0.01
+curtailment,Due to outage(tripping) of 765kV Aligarh-Sikar2 ckt 2(This Figure is for Ramgarh),1,0.02,0.0
+curtailment,Due to over loading of 400 KV Bhadla-Bikaner-i&ii ckt and outage of 400kV Bhadla-Jodhpur and Bhadla-Merta lines,1,0.9,0.0
+curtailment,Due to over loading of ICT at Bhadla and Bikaner,1,0.76,0.0
+curtailment,Due to overloading at Bhadla ICT,1,0.17,0.0
+curtailment,Due to overloading of 220 kV Gajner-Bikaner d,1,0.08,0.0
+curtailment,Due to outage of 220 kV Akal-Jaisalmer-II ckt 1&2,1,0.3,0.0
+curtailment,Due to heavy underdrawal control(System Requirement),1,0.0,0.27
+curtailment,Due to heavy underdrawal,1,0.88,0.6
+curtailment,Due to overloading of Dhule -Sakari line GTS operated.,1,0.03,0.0
+curtailment,Due to overloading of Dhule -Sakari line GTS operated & To control heavy underdrawal (892MW) at high frequency.,1,5.71,1.53
+curtailment,Due to overloading of 220 kv Gajner-Bikaner ckt I &II.,1,0.1,0.0
+curtailment,Due to overloading of ICts at Bhadla and 220 KV Bikaner-Gajner line,1,0.57,0.0
+curtailment,DUE TO HEAVY UD IN GUJARAT SYSTEM,1,5.27,2.39
+curtailment,DUE TO HEAVY UNDER DRAWL AND HIGH FREQUENCY AND DUE TO O,1,1.22,0.04
+curtailment,DUE TO HEAVY UNDERDRAWL AND HIGH FREQUENCY and outage of 400 Jaisalmer-Barmer Ckt I&II,1,2.06,0.0
+curtailment,DUE TO 400 KV KAKANI - MERTA LINE AND ICT'S OF 400 KV BHADLA,1,1.9,0.72
+curtailment,DUE TO HIGH FREQUENCY AND HEAVY UNDER DRAWL,1,0.783,0.08
+curtailment,DUE TO HIGH FREQUENCY AND HEAVY UNDERDRAWLFREQ AND HEAVY UNDERDRAWL,1,4.35,0.05
+curtailment,"DUE TO LESS DEMAND,HEAVY UNDER DRWAL AND HIGH FREQUENCY",1,11.68,1.17
+curtailment,DUE TO LOW VOLTAGE IN AREA,1,1.61,0.77
+curtailment,DUE TO LOW VOLTAGE IN RE POCKET AND IN VIEW OF OUTAGE OF MANY LINES IN RAJASTHAN,1,1.15,0.8825
+curtailment,"DUE TO OUTAGE OF 400 KV BHADLA - BIKANER I & II , 400 KV JODHPUR - BHADLA , 400 KV MERTA - BHADLA , 400 KV AKAL - KANKANI & 400 KV BARMER - JAISALMER I & II LINES",1,1.6,0.0
+curtailment,"DUE TO OUTAGE OF 400 KV BHADLA - JODHPUR,400 KV BHADLA - MERTA LINES",1,1.0,0.0
+curtailment,DUE TO HIGH FREQ AND HEAVY UNDERDRAWL,1,1.375,0.423
+curtailment,DUE TO OUTAGE OF 400 KV BHADLA-MERTA (RS) CKT-1 and 400 KV BHADLA-JODHPUR (RS) CKT-1,1,1.781,0.0
+curtailment,DUE TO OUTAGE OF 400 KV JAISALMER - II - BARMER -I & II LINE,1,0.12,0.99
+curtailment,DUE TO OVERLOADIND OF 220 KV BIKANER-GAJNER- I & II LINES,1,0.16,0.0
+curtailment,DUE TO OUTAGE OF 765 KV BHADLA - SIKAR II LINE,1,1.02,0.29
+curtailment,DUE TO OVERLOADING OF ICT'S AT 400 KV BHADLA AND D,1,0.51,0.0
+curtailment,Due To Overloading Of Dhule -Sakari Line GTS Operated and to control heavy underdrawal (861MW) at high frequency.,1,4.22,1.5
+curtailment,Due to 1500MVA ICT3 under forced shutdown,1,1.75,0.0
+curtailment,DUE TO OVERLOADING OF 220 KV BIKANER -GAJNER LINE-1 &2 AND OVERLOADING OF BHADLA ICTs,1,0.65,0.0
+curtailment,220kV ICTs at Bhadla S,1,0.2,0.0
+curtailment,33kV Transformer Augumentation work for existing 1X25 MVA Transformer by 1X50 MVA Transformer at 132kV Karajgi Substation is,1,0.13,0.0
+curtailment,"Tripping of 132 kV Bale South Solapur & 132 kV Wagdari Naldurg line Overloaded, Overloading of 132 kV Naldurg Bale line upto 540Amp & GTS operation at 132KV Naldurg SS",1,0.39,0.0
+curtailment,33kV Transformer Augumentation work for existing 1X25 MVA Transformer by 1X50 MVA Transformer at 132kV Karajgi Substation is going on and load is managed on remaining 1X25 MVA Transformer.,1,0.14,0.0
+curtailment,continuous follow up for controlling under drawl from WRLDC and notices received from WRLDC (cid:10),1,3.86,0.46
+curtailment,due to outage of 220 kV AaU-Badisid I&II line,1,2.06,0.0
+curtailment,due to outage of 400 kv Akal-Jaisalmer-2 and O,1,2.768,0.0
+curtailment,"""In view of the system requirement, Guj U",1,6.472,0.0
+curtailment,"D : -1052 MW, system freq 50.14 Hz, it is instructed to Curtail 20% of solar generation with immediate effect dtd. 12.05.2025",1,2.575,0.0
+curtailment,"D : - 649 MW, system freq 50.07 Hz, State & ISGS running MTDL, it is hereby instructed to curtail 20% of Wind generation with immediate effect from 20:07 hrs dtd.08.01.2026 till further instruction. release 20 % wind generation with immediate effect from 20:45 hrs dtd.08.01.2026.",1,0.0,0.24
+curtailment,"D : - 1246 MW, system freq 50.01 Hz ,state generation : 12811 MW, State & ISGS running MTDL, it is hereby instructed to additional curtail 20% of wind & 20 % solar generation with immediate effect from 11:46hrs dtd.04.03.2026. 3) In view of the system requirement and grid security and stability",1,13.13,0.5
+curtailment,"D : - 1243MW, system freq 50.03 Hz, State & ISGS running MTDL, it is hereby instructed to curtail 20 % of solar generation with immediate effect from 12:16 hrs dtd.21.03.2026 till further instruction.",1,6.9,0.0
+curtailment,In view of system requirement to control under drawl for grid security and reliability,1,6.63,0.0
+curtailment,In view of system requirement and to control under drawl for grid security and reliability,1,7.06,0.54
+curtailment,In view of system requirement and to control U,1,3.13,0.97
+curtailment,In view of system requirement & to control under drawl and for grid security and reliability. WRLDC notices received to control under drawl.,1,2.05,0.46
+curtailment,High Freq Heavy underdrawal,1,0.92,0.0
+curtailment,In view of grid security and reliability and to control under drawl,1,2.95,0.71
+curtailment,ICT-2 tripped at Tuljapur,1,0.05,0.0
+curtailment,ICT overloading at bhadla and bikaner,1,0.21,0.0
+curtailment,HIGH FREQUENCY AND HEAVY UNDERDRAWL,1,1.533,0.61
+curtailment,Heavy Underdrawal under high Frequency,1,0.268,0.0
+curtailment,GTS-Operated at 132KV Wagdari-Naldurg Line GTS Stage 1 optd,1,0.01,0.0
+curtailment,GTS operated at Wagadri,1,0.020325,0.0
+curtailment,For grid security during oscillations in the grid,1,0.33,0.0
+curtailment,GTS operated at 132KV Wagdari and Hasapur PSS due to overloading of 132kV Hasapur -bale line.,1,0.03,0.0
+curtailment,GTS operated at 132 KV Wagdari SS,1,0.02,0.0
+curtailment,GTS operated (stage-1 & stage-2) due to overloading of 132kV Tighara (Juniper)-Varangaon Tap-Khadka line GTS operated (stage-1 & stage-2) due to overloading of 132kV Tighara (Juniper)-Varangaon Tap-Khadka line,1,0.05,0.0
+curtailment,GTS Operated at 132kv Wagadri and 132kV Hasapur due to overloading (570 Amp) on 132kV Wagdari- Naldurg line,1,0.30786,0.0
+curtailment,GTS Operated at 132kv Naldurg due to overloading Of 132kv Naldurg Solapur Line (540 Amp),1,0.04,0.0
+curtailment,GTS Operated at 132kv Hasapur due to increase in loading of Naldurg-Wagdari Line 570Amp.,1,0.01,0.0
+curtailment,GTS Operated At 132kv Wagadri and 132kv Hasapur due to increase in loading of Naldurg-Wagdari Line 570Amp.,1,0.135,0.0
+curtailment,Due to overloading of ICts at Bhadla and 220 Bikaner-Gajner line,1,0.73,0.0
+curtailment,For compliance of N-1 and as per direction of NRLDC,1,1.58,0.93
+curtailment,"Due to tripping of 132kv Chetak-Bale line, 132KV Wagdari-Naldurg Line GTS Stage 1 & Stage 2 Operated.",1,0.04,0.0
+curtailment,"Due to overloading of Kankani merta, Due to O",1,1.47,0.39
+curtailment,"In view of the system requirement and grid security and stability, 15% RE cutailed from 09:50 to 10:50 Hrs & again RE curtailed from 12:25 Hrs to 14:00Hrs",1,1.34,1.63
+curtailment,In view of the system requirement and grid security and stability ( Rising trends of solar and wind generation),1,7.82,2.28
+curtailment,"In view of the system requirement , WRLDC Guj U",1,4.84,0.12
+curtailment,In view of the system requirement and grid security and stability & continuous follow up for controlling under drawl from WRLDC.,1,2.61,0.0
+curtailment,L at 220 KV Bikaner - Gajner I & II Line,1,0.24,0.0
+curtailment,L ON ICT'S AT 400 KV BIKANER & 400 KV BHADLA OUTAGE OF 220 KV BIKANER - GAJNER LINE AND DUE TO HIGHT FREQ. & HEAVY UNDER DRAWL,1,3.5,0.14
+curtailment,L ON ICT'S AT 400 KV BIKANER & 400 KV BHADLA AND HIGH FREQUENCY AND HEAVY UNDERDRAWL,1,2.24,0.03
+curtailment,L ON 400 KV KANKANI - MERTA LINE AND DUE TO HIGHT FREQ. & HEAVY UNDER DRAWL,1,3.4,0.85
+curtailment,L OF ICTs OF 400 KV BHADLA GSS,1,0.33,0.0
+curtailment,"L OF 220 KV BIKANER SURATGARH,220KV BIKANER-BIKANER LINES",1,0.45,0.0
+curtailment,L AT 220 KV BIKANER - GAJNER LINE 1 & 2 AND ICTs OF 400 KV BHADLA,1,0.65,0.0
+curtailment,L AT 220 KV BIKANER - GAJMER LINE 1 & 2,1,0.12,0.0
+curtailment,"In view of the system requirement and grid security and stability , Guj U",1,0.3,0.07
+curtailment,L at 400 KV Kankani - Merta line & 220 KV Bikaner - Gajner line and 400 KV ICT's at 400 KV Bhadla.,1,0.71,0.07
+curtailment,L at 220 KV Bikaner - Gajner I & II and 400 KV Kankani - Merta Line and O,1,2.34,0.18
+curtailment,L at 220 KV Bikaner - Gajner I & II and 400 KV Kankani - Merta Line,1,2.42,0.76
+curtailment,L at 220 KV Bikaner - Gajner I & II and 400 KV Kankani - Merta line and O,1,1.97,0.44
+curtailment,L at 220 KV Bikaner - Gajner i & II,1,0.16,0.0
+curtailment,L at 400 KV Bikaner & 400 KV Bhadla and high frequency and heavy underdrawl,1,2.58,0.13
+curtailment,L at 400 KV ICTs at 400 KV Bhadla,1,0.44,0.0
+curtailment,L of ICT's at 400 KV Bikaner & 400 KV Bhadla and high frequency and heavy under drawl,1,1.15,0.04
+curtailment,L of ICT's at 400 KV Bhadla and high frequency and heavy under drawl,1,2.82,0.79
+curtailment,"L of 400 KV akal - kankani. akal - jaisalmer -II, merta - heerapura & merta - kankani line",1,1.33,1.31
+curtailment,L of 400 KV Kankani - Merta line,1,2.08,1.55
+curtailment,"L of 400 Akal - Kankani, Akal - Jaisalmer -II , Merta - Heerapura, 220 KV Pachpadra - Balotara and Due to heavy under drawl & high Frequancy",1,3.03,0.71
+curtailment,In view of under drawl and to maintain grid reliability,1,6.53,4.44
+curtailment,"L 400 KV KANKANI - MERTA , 400 KV MERTA - HEERAPURA AND 220 KV BIKANER - GAJNER 1 & 2 LINE AND DUE TO OVER DRAWL & LOW FREQUENCY",1,2.47,0.34
+curtailment,In view of the system requirement and grid security and stability to control UD.,1,1.72,2.95
+curtailment,"D : -1890 MW, system freq 50.16 Hz, State & ISGS running MTDL, it is hereby instructed to additional curtail 10% of wind & 10 % solar generation with immediate effect from 09:57 hrs dtd.30.09.2025. In view of the system requirement and grid security and stability",1,6.44,4.95
+curtailment,"D : 251MW, system freq 49.95 Hz, State & ISGS running MTDL, it is hereby instructed to release RE curtailment of 10 % of solar generation with immediate effect from 12:50 hrs dtd.17.03.2026 till further instruction. In view of the system requirement and grid security and stability",1,1.23,0.0
+curtailment,D AND HIGH FREQUENCY,1,4.52,0.55
+curtailment,"D : 918 MW, system average freq 50.13 Hz ,state generation: 15686MW, State running MTDL, it is hereby instructed to curtail 10% of solar & 10 % wind generation with immediate effect from 15:15 hrs for grid security and reliability. curtailment relesed at 17:15 Hrs",1,2.69,0.24
+curtailment,D is -518 MW at 11:05 hrs.Curtail 20% Wind generation & 10% Solar Curtailment.from 11:05hrs to 12:00hrs,1,0.8637,0.4663
+curtailment,"D : -1649 MW, system average freq 50.05 Hz ,state generation : 16789 MW, State Genration & ISGS are MTDL from 09:00 hrs, it is hereby instructed to curtail additional 10% of solar & 20 % wind generation with immediate effect from 12:48 hrs. In view of the system requirement, release RE Curtailment 10 % SOALR & 10 % WIND generation with immediate effect from 14:11 hrs In view of the system requirement, additional RELEASE RE Curtailment 10 % SOALR & 10 % WIND generation with immediate",1,5.09,0.74
+curtailment,"D : -2537 MW, system freq 50.02 Hz",1,6.85,2.01
+curtailment,"D : -1204 MW, system freq 50.10 Hz, State & ISGS running MTDL, it is hereby instructed to Curtail 20% of wind generation with immediate effect from 11:40 hrs, Curtail Additional 10% of wind generation (Wind Total curtailment : 10%+20%=30%) & 30% Solar Generation with immediate effect from 12:30 Hrs, additional RE Curtailment 15% of wind & 15 % solar generation with immediate effect from 14:18 hrs additional RE Curtailment 15% of wind & 15 % solar generation with immediate effect from 15:32 hrs""",1,4.0,4.67
+curtailment,TO CONTROL UD,1,4.0,0.39
+curtailment,TTC VIOLATION AND CONGESTION CHARGES MAY BE IMPOSE BY NLDC,1,0.666,0.022
+curtailment,RE Curtailment 20 % Solar generation and 20% Wind Generation to all RE generators of present generation from 12:29 Hrs,1,1.51,0.27
+curtailment,System Requirement,1,0.0,0.005
+curtailment,NOC curtailled between 10:30 hrs to 15:00 hrs due to outage of 765 KV bikaner khetri ckt-3,1,2.3,0.0
+curtailment,Local curtailment imposed to control overloading of 66KVKim-Mosali line (Having 30MW-DOG ).At the time of curtailment imposed 66KV Kim- Mosali running 300 AMP and high flacuation in loading.,1,0.02,0.0
+curtailment,L of ICT's at 400 KV Bikaner and Bhadla & due to high frequency and heavy under drawl.,1,7.16,0.11
+curtailment,L of ICT's at 400 KV Bikaner AND 400 KV ICT'S at 400 KV Bhadla & high frequency and heavy underdrawl,1,1.96,0.02
+curtailment,Multiple Evacuation line tripped in Rajasthan RE pocket.,1,0.59,0.0
+curtailment,L at 400 KV Merta - Heerapura & 400 KV Merta - Kankani line and high frequency and heavy underdrawl,1,1.24,0.54
+curtailment,L of 220 KV Gajner - Bikaner Line,1,0.12,0.0
+curtailment,To control Under-drawl.,1,1.63,0.86
+curtailment,"To control Under Drawl, Max UD touched 3260 MW",1,0.0,1.68
+curtailment,"To control Under Drawl of 1067 MW, system freq 50.15 Hz, RE Curtailement has been done from 12:30 hrs to 13:00 hrs.",1,0.31,0.51
+curtailment,To control Underdrawl and 220kV Charanka-Jangral -2 trip & 220kV Charanka-Jangral -1 ESD.,1,1.67,0.0
+curtailment,To control UD In view of the system requirement and grid security and stability,1,6.21,1.41
+curtailment,To control heavy underdrawal (1565MW) at high frequency.,1,0.5,1.47
+curtailment,To control heavy underdrawal (1511MW) at high frequency.,1,1.0,0.0
+curtailment,To control heavy underdrawal (1461MW) at high frequency.,1,5.19,2.99
+curtailment,To control heavy underdrawal (1652MW) at high frequency.,1,0.33,0.31
+curtailment,To control heavy underdrawl (1675MW) at high frequency.,1,0.39,0.0
+curtailment,To control heavy underdrawal (1891MW) at high frequency.,1,10.45,1.53
+curtailment,To control heavy underdrawal (929MW),1,0.64,0.0
+curtailment,To control heavy underdrawal (989MW),1,2.0,0.0
+curtailment,To control high UD,1,0.39,0.08
+curtailment,To control heavy underdrawl.,1,0.0,1.05
+curtailment,To control heavy underdrawl (658MW),1,2.0,0.0
+curtailment,To control high frequency and heavy underdrawal (1500MW),1,3.44,0.0
+curtailment,To control continuous under drawl,1,9.9,0.0
+curtailment,To control Under Drawal,1,2.92,1.82
+curtailment,To Control the heavy under drawl,1,1.0,0.0
+curtailment,To Control Underdrwal,1,4.0,0.0
+curtailment,To control underdrawal (~1150 MW),1,1.38,1.14
+curtailment,To control underdrawal,1,7.28,5.7
+curtailment,To control overloading of 220kV Gajner Bikaner Ckt 1 & 2,1,0.06,0.0
+curtailment,To control loading of 220KV Savarkundla - Mesanka line,1,0.009,0.0
+curtailment,"4067 RE curtailment to imposed as follows from 11:04 Hrs dt. 22.04.2026. Total Solar generation curtailment in effect is 30 & Wind generation curtailment in effect is 30%. 2) In view of the system requirement and grid security and stability & continuous follow up for controlling under drawl from WRLDC, curtailment to be imposed as follows from 13:40 Hrs dt. 22.04.2026. Total Solar generation curtailment in effect is 30 & Wind generation curtailment in effect is 30% + 10 % = 40%. 3) In view of the system requirement and grid security and stability, release RE Curtailment 10 % Solar generation & 10 % Wind generation",1,10.07,0.9
+curtailment,"1. In view of the system requirement and grid security and stability RE curtailment to be imposed as follows from 12:33 Hrs dt.08.05.2026, Total Solar generation curtailment in effect is 10% & Wind generation curtailment in effect is 10%. 2. In view of the system requirement and grid security and stability & RE curtailment to be Released as follows from 13:30 Hrs dt.08.05.2026, Total Solar generation curtailment in effect is 10-10=0% & Wind generation curtailment in effect is 10-10=0%.",1,0.8,0.15
+curtailment,"400kv Kanarpatty-Tirunelveli PGCIL -1# BreakDown . 230KV Kayathar -Abishegapatti Feeder, 230KV Kayathar - Veeranam , 230 KV Udayathoor -Tirunelveli # Overloading",1,0.56,1.25
+curtailment,33kV Transformer Augumentation work for existing 1X25 MVA Transformer by 1X50 MVA Transformer at 132kV Karajgi Substation is going on and load is managed on remaining 1X25 MVA Transformer. 132,1,0.13,0.0
+curtailment,As per system requirement all state & ISGS generators are running under Technical Minimum. to control U,1,7.5178,2.2321
+curtailment,C 220 KV BIKANER-GAJNER-I&II and to control underdrawl,1,6.46,3.13
+curtailment,"C.M, it is hereby instructed to Curtail 30% of solar generation with immediate effect dtd. 09.05.2025; Wind Curtailment: AS per directive of Ditrict collector during blackout in kutch district.",1,6.425,0.0452
+curtailment,To control underdrawal (~1596 MW),1,8.27,4.08
+curtailment,To control underdrawal (~1891MW).,1,8.54,1.53
+curtailment,46118,1,9.89,4.9
+curtailment,46123,1,4.34,1.37
+curtailment,400kv Kanarpatty-Tirunelveli PGCIL -1# Breakdown .230kv Kayathar - Kayathar -1&2 Feeders Overloading,1,1.38,1.84
+curtailment,To restrict RE generation up to 6000 MW as direction received from NRLDC. Also to restrict line loading of 400kV Bhadla - Bikaner ckt upto 750 MW.,1,1.05,0.405
+curtailment,To control underdrawl in view of the system requirement and stability,1,2.21,0.55
+curtailment,To control underdrawal by reducing RE gen.,1,12.51,6.81
+curtailment,"1. In view of the system requirement and grid security and stability & RE curtailment to be imposed as follows from 11:02 Hrs dt.15.05.26, Total Solar generation curtailment in effect is 20% Wind generation curtailment in effect is 20%. 2. To Release RE Curtailment 10% Solar Generation & 10% Wind generation with immediate effect from 14:00 hrs dt.15.05.26. 3. To Release RE Curtailment 10% Solar Generation & 10% Wind generation with immediate effect from 14:15 hrs dt.15.05.26",1,5.02,1.5
+curtailment,132KV Hasapur - Bale Line GTS Stage-1 Operated. 132KV Wagdari-Naldurg Line GTS Stage 1 & 2 Operated. Stage 1 & 2: 570Amp,1,0.04,0.0
+curtailment,"132KV Wagdari-Naldurg Line GTS Stage 1 & 2 optd. Stage 1: 570Amp, 1sec. Stage 2: 570Amp, 2sec.",1,0.04,0.0
+curtailment,132 kV Soregaon Mandrup line is under break down because of tower collapse. Hence 132 kV Hasapur Solar to Bale line gets overloaded which results in GTS operation.,1,0.18,0.0
+curtailment,"10% WIND and 10% SOLAR CURTAILMENT, DUE TO HIGH FREQUENCY, FROM 13:15 HRS TO 14:15 HRS.",1,0.5528,0.447
+curtailment,132kV Wagdari-Naldurg Line GTS Stage 1 & 2 operated.,1,0.05,0.0
+curtailment,"132kV Chetak-Bale Line GTS(Generation Trimming Scheme) Stage-1 operated(Setting: 560 A, 1.3sec)",1,0.02,0.0
+curtailment,"155 MW Due to over loading of 220 Gajner Bikaner ckt, 1583 MW between 13:00 hrs to 14:30 hrs due to heavy under drawl and 195 MW wind",1,2.9,0.29
+curtailment,"1526 12:01 HRS Rising high wind generation & Solar generation).Total RE curtailment in effect is: Wind curtailment 30 % + 25% = 55 % Solar curtailment 30 % + 25% = 55 % Looking at the real time system considering grid security and stability, as Gujarat system is now normal, Released 20% Solar generation and 20% Wind Generation with effect from 14:25 hrs dt.11.07.26. Now RE Curtailment in effect : Wind : 55-20 = 35% Solar: 55-20 = 35%",1,10.7,5.85
+emergency_tras_down,0.61,1,1.0,1.0
+emergency_tras_down,0.81,1,1.0,1.0
+emergency_tras_down,0.86,1,1.0,1.0
+emergency_tras_down,"1024/1525,2350",1,0.01,0.0

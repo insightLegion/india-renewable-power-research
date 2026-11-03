@@ -1,0 +1,73 @@
+geography,period_start,period_end,granularity,metric,value,unit,source_id,notes
+India,2015-04-01,2016-03-31,FY,energy_requirement,1114408.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2016-04-01,2017-03-31,FY,energy_requirement,1142928.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2017-04-01,2018-03-31,FY,energy_requirement,1213326.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2018-04-01,2019-03-31,FY,energy_requirement,1274595.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2019-04-01,2020-03-31,FY,energy_requirement,1291010.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2020-04-01,2021-03-31,FY,energy_requirement,1275534.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2021-04-01,2022-03-31,FY,energy_requirement,1379812.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2022-04-01,2023-03-31,FY,energy_requirement,1513497.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2023-04-01,2024-03-31,FY,energy_requirement,1626132.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2024-04-01,2025-03-31,FY,energy_requirement,1693959.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2025-04-01,2026-03-31,FY,energy_requirement,1707493.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values) - chart label marked * 
+India,2026-04-01,2027-03-31,FY,energy_requirement_anticipated,1886625.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values; 2026-27 anticipated) - chart label marked * 
+India,2015-04-01,2016-03-31,FY,peak_demand,153366.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2016-04-01,2017-03-31,FY,peak_demand,159542.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2017-04-01,2018-03-31,FY,peak_demand,164066.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2018-04-01,2019-03-31,FY,peak_demand,177022.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2019-04-01,2020-03-31,FY,peak_demand,183804.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2020-04-01,2021-03-31,FY,peak_demand,190198.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2021-04-01,2022-03-31,FY,peak_demand,203014.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2022-04-01,2023-03-31,FY,peak_demand,215888.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2023-04-01,2024-03-31,FY,peak_demand,243271.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2024-04-01,2025-03-31,FY,peak_demand,249856.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values)
+India,2025-04-01,2026-03-31,FY,peak_demand,245444.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values) - chart label marked * 
+India,2026-04-01,2027-03-31,FY,peak_demand_anticipated,271643.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 executive-summary trend chart (actual FY values; 2026-27 anticipated) - chart label marked * 
+Northern Region,2026-04-01,2027-03-31,FY,energy_requirement_anticipated,556767.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Northern Region,2026-04-01,2027-03-31,FY,energy_availability_anticipated,574787.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Northern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated,18020.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Northern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated_pct,3.2,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Northern Region,2026-04-01,2027-03-31,FY,peak_demand_anticipated,98600.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Northern Region,2026-04-01,2027-03-31,FY,peak_availability_anticipated,103780.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Northern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated,5180.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Northern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated_pct,5.3,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,energy_requirement_anticipated,597008.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,energy_availability_anticipated,608710.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated,11702.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated_pct,2.0,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,peak_demand_anticipated,87257.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,peak_availability_anticipated,93362.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated,6106.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Western Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated_pct,7.0,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,energy_requirement_anticipated,481713.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,energy_availability_anticipated,493115.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated,11402.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated_pct,2.4,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,peak_demand_anticipated,84077.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,peak_availability_anticipated,75990.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated,-8087.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Southern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated_pct,-9.6,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,energy_requirement_anticipated,225684.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,energy_availability_anticipated,232869.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated,7185.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated_pct,3.2,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,peak_demand_anticipated,37002.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,peak_availability_anticipated,31024.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated,-5978.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+Eastern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated_pct,-16.2,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,energy_requirement_anticipated,25452.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,energy_availability_anticipated,24679.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated,-773.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated_pct,-3.0,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,peak_demand_anticipated,4649.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,peak_availability_anticipated,4777.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated,128.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+North-Eastern Region,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated_pct,2.8,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,energy_requirement_anticipated,1886625.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,energy_availability_anticipated,1934161.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated,47537.0,MU,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,energy_surplus_deficit_anticipated_pct,2.5,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,peak_demand_anticipated,271643.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,peak_availability_anticipated,282707.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated,11064.0,MW,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'
+India,2026-04-01,2027-03-31,FY,peak_surplus_deficit_anticipated_pct,4.1,%,GEN-CEA-LGBR-2026-27,LGBR 2026-27 Executive Summary table 'Anticipated All India Power Supply Position'

@@ -1,0 +1,316 @@
+geography,market,period_start,period_end,granularity,metric,value,unit,source_id,notes
+India,IEX DAM,2025-01-01,2025-01-31,monthly,buy_bid_volume,9619.1,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-01-01,2025-01-31,monthly,max_acp,10.0,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-01-01,2025-01-31,monthly,min_acp,1.62,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-01-01,2025-01-31,monthly,sell_bid_volume,13099.98,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-01-01,2025-01-31,monthly,sell_buy_bid_ratio,1.362,ratio,PRC-006,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-01-01,2025-01-31,monthly,traded_volume,6017.39,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-01-01,2025-01-31,monthly,weighted_avg_acp,4.4,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-02-01,2025-02-28,monthly,buy_bid_volume,9678.09,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-02-01,2025-02-28,monthly,max_acp,10.0,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-02-01,2025-02-28,monthly,min_acp,2.03,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-02-01,2025-02-28,monthly,sell_bid_volume,10335.33,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-02-01,2025-02-28,monthly,sell_buy_bid_ratio,1.068,ratio,PRC-007,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-02-01,2025-02-28,monthly,traded_volume,5408.08,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-02-01,2025-02-28,monthly,weighted_avg_acp,4.32,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-03-01,2025-03-31,monthly,buy_bid_volume,10022.11,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-03-01,2025-03-31,monthly,max_acp,10.0,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-03-01,2025-03-31,monthly,min_acp,1.0,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-03-01,2025-03-31,monthly,sell_bid_volume,10699.38,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-03-01,2025-03-31,monthly,sell_buy_bid_ratio,1.068,ratio,PRC-008,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-03-01,2025-03-31,monthly,traded_volume,5498.57,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-03-01,2025-03-31,monthly,weighted_avg_acp,4.19,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-04-01,2025-04-30,monthly,buy_bid_volume,9892.89,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-04-01,2025-04-30,monthly,max_acp,10.0,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-04-01,2025-04-30,monthly,min_acp,0.3,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-04-01,2025-04-30,monthly,sell_bid_volume,11189.52,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-04-01,2025-04-30,monthly,sell_buy_bid_ratio,1.131,ratio,PRC-009,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-04-01,2025-04-30,monthly,traded_volume,4351.71,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-04-01,2025-04-30,monthly,weighted_avg_acp,4.43,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-05-01,2025-05-31,monthly,buy_bid_volume,6606.16,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-05-01,2025-05-31,monthly,max_acp,10.0,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-05-01,2025-05-31,monthly,min_acp,0.2,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-05-01,2025-05-31,monthly,sell_bid_volume,12051.26,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-05-01,2025-05-31,monthly,sell_buy_bid_ratio,1.824,ratio,PRC-010,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-05-01,2025-05-31,monthly,traded_volume,3461.21,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-05-01,2025-05-31,monthly,weighted_avg_acp,3.74,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-06-01,2025-06-30,monthly,buy_bid_volume,8142.69,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-06-01,2025-06-30,monthly,max_acp,10.0,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-06-01,2025-06-30,monthly,min_acp,0.1,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-06-01,2025-06-30,monthly,sell_bid_volume,14440.96,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-06-01,2025-06-30,monthly,sell_buy_bid_ratio,1.773,ratio,PRC-011,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-06-01,2025-06-30,monthly,traded_volume,4580.85,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-06-01,2025-06-30,monthly,weighted_avg_acp,3.6,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-07-01,2025-07-31,monthly,buy_bid_volume,9052.98,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-07-01,2025-07-31,monthly,max_acp,10.0,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-07-01,2025-07-31,monthly,min_acp,0.1,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-07-01,2025-07-31,monthly,sell_bid_volume,14183.6,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-07-01,2025-07-31,monthly,sell_buy_bid_ratio,1.567,ratio,PRC-012,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-07-01,2025-07-31,monthly,traded_volume,5496.83,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-07-01,2025-07-31,monthly,weighted_avg_acp,4.14,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-08-01,2025-08-31,monthly,buy_bid_volume,8000.24,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-08-01,2025-08-31,monthly,max_acp,10.0,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-08-01,2025-08-31,monthly,min_acp,0.05,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-08-01,2025-08-31,monthly,sell_bid_volume,14636.99,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-08-01,2025-08-31,monthly,sell_buy_bid_ratio,1.83,ratio,PRC-013,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-08-01,2025-08-31,monthly,traded_volume,4833.71,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-08-01,2025-08-31,monthly,weighted_avg_acp,3.98,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-09-01,2025-09-30,monthly,buy_bid_volume,7166.42,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-09-01,2025-09-30,monthly,max_acp,10.0,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-09-01,2025-09-30,monthly,min_acp,0.05,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-09-01,2025-09-30,monthly,sell_bid_volume,15156.97,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-09-01,2025-09-30,monthly,sell_buy_bid_ratio,2.115,ratio,PRC-014,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-09-01,2025-09-30,monthly,traded_volume,4170.49,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-09-01,2025-09-30,monthly,weighted_avg_acp,3.44,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-10-01,2025-10-31,monthly,buy_bid_volume,6852.33,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-10-01,2025-10-31,monthly,max_acp,10.0,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-10-01,2025-10-31,monthly,min_acp,0.05,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-10-01,2025-10-31,monthly,sell_bid_volume,22800.73,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-10-01,2025-10-31,monthly,sell_buy_bid_ratio,3.327,ratio,PRC-015,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-10-01,2025-10-31,monthly,traded_volume,4718.89,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-10-01,2025-10-31,monthly,weighted_avg_acp,2.86,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-11-01,2025-11-30,monthly,buy_bid_volume,8754.89,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-11-01,2025-11-30,monthly,max_acp,10.0,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-11-01,2025-11-30,monthly,min_acp,0.1,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-11-01,2025-11-30,monthly,sell_bid_volume,21488.44,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-11-01,2025-11-30,monthly,sell_buy_bid_ratio,2.454,ratio,PRC-016,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-11-01,2025-11-30,monthly,traded_volume,5625.92,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-11-01,2025-11-30,monthly,weighted_avg_acp,3.22,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-12-01,2025-12-31,monthly,buy_bid_volume,11272.39,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-12-01,2025-12-31,monthly,max_acp,10.0,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-12-01,2025-12-31,monthly,min_acp,1.35,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2025-12-01,2025-12-31,monthly,sell_bid_volume,15693.16,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-12-01,2025-12-31,monthly,sell_buy_bid_ratio,1.392,ratio,PRC-017,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2025-12-01,2025-12-31,monthly,traded_volume,5932.55,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2025-12-01,2025-12-31,monthly,weighted_avg_acp,3.82,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-01-01,2026-01-31,monthly,buy_bid_volume,11142.21,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-01-01,2026-01-31,monthly,max_acp,10.0,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-01-01,2026-01-31,monthly,min_acp,1.43,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-01-01,2026-01-31,monthly,sell_bid_volume,16991.21,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-01-01,2026-01-31,monthly,sell_buy_bid_ratio,1.525,ratio,PRC-018,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2026-01-01,2026-01-31,monthly,traded_volume,6125.7,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-01-01,2026-01-31,monthly,weighted_avg_acp,3.82,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-02-01,2026-02-28,monthly,buy_bid_volume,11360.57,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-02-01,2026-02-28,monthly,max_acp,10.0,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-02-01,2026-02-28,monthly,min_acp,1.0,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-02-01,2026-02-28,monthly,sell_bid_volume,17159.68,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-02-01,2026-02-28,monthly,sell_buy_bid_ratio,1.51,ratio,PRC-019,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2026-02-01,2026-02-28,monthly,traded_volume,6570.1,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-02-01,2026-02-28,monthly,weighted_avg_acp,3.56,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-03-01,2026-03-31,monthly,buy_bid_volume,12385.12,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-03-01,2026-03-31,monthly,max_acp,10.0,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-03-01,2026-03-31,monthly,min_acp,0.98,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX DAM,2026-03-01,2026-03-31,monthly,sell_bid_volume,16587.47,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-03-01,2026-03-31,monthly,sell_buy_bid_ratio,1.339,ratio,PRC-020,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX DAM,2026-03-01,2026-03-31,monthly,traded_volume,6860.58,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX DAM,2026-03-01,2026-03-31,monthly,weighted_avg_acp,3.88,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-01-01,2025-01-31,monthly,buy_bid_volume,2785.63,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-01-01,2025-01-31,monthly,max_acp,10.0,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-01-01,2025-01-31,monthly,min_acp,2.24,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-01-01,2025-01-31,monthly,sell_bid_volume,1045.46,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-01-01,2025-01-31,monthly,sell_buy_bid_ratio,0.375,ratio,PRC-006,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-01-01,2025-01-31,monthly,traded_volume,694.59,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-01-01,2025-01-31,monthly,weighted_avg_acp,4.64,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-02-01,2025-02-28,monthly,buy_bid_volume,2865.87,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-02-01,2025-02-28,monthly,max_acp,10.0,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-02-01,2025-02-28,monthly,min_acp,2.09,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-02-01,2025-02-28,monthly,sell_bid_volume,779.09,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-02-01,2025-02-28,monthly,sell_buy_bid_ratio,0.272,ratio,PRC-007,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-02-01,2025-02-28,monthly,traded_volume,527.86,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-02-01,2025-02-28,monthly,weighted_avg_acp,4.59,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-03-01,2025-03-31,monthly,buy_bid_volume,2310.87,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-03-01,2025-03-31,monthly,max_acp,10.0,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-03-01,2025-03-31,monthly,min_acp,1.72,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-03-01,2025-03-31,monthly,sell_bid_volume,806.67,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-03-01,2025-03-31,monthly,sell_buy_bid_ratio,0.349,ratio,PRC-008,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-03-01,2025-03-31,monthly,traded_volume,576.2,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-03-01,2025-03-31,monthly,weighted_avg_acp,4.31,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-04-01,2025-04-30,monthly,buy_bid_volume,2374.08,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-04-01,2025-04-30,monthly,max_acp,10.0,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-04-01,2025-04-30,monthly,min_acp,0.9,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-04-01,2025-04-30,monthly,sell_bid_volume,979.68,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-04-01,2025-04-30,monthly,sell_buy_bid_ratio,0.413,ratio,PRC-009,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-04-01,2025-04-30,monthly,traded_volume,683.73,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-04-01,2025-04-30,monthly,weighted_avg_acp,4.07,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-05-01,2025-05-31,monthly,buy_bid_volume,1952.73,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-05-01,2025-05-31,monthly,max_acp,10.0,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-05-01,2025-05-31,monthly,min_acp,0.3,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-05-01,2025-05-31,monthly,sell_bid_volume,1253.5,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-05-01,2025-05-31,monthly,sell_buy_bid_ratio,0.642,ratio,PRC-010,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-05-01,2025-05-31,monthly,traded_volume,824.49,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-05-01,2025-05-31,monthly,weighted_avg_acp,3.59,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-06-01,2025-06-30,monthly,buy_bid_volume,2658.34,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-06-01,2025-06-30,monthly,max_acp,10.0,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-06-01,2025-06-30,monthly,min_acp,0.2,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-06-01,2025-06-30,monthly,sell_bid_volume,1345.67,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-06-01,2025-06-30,monthly,sell_buy_bid_ratio,0.506,ratio,PRC-011,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-06-01,2025-06-30,monthly,traded_volume,938.09,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-06-01,2025-06-30,monthly,weighted_avg_acp,3.31,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-07-01,2025-07-31,monthly,buy_bid_volume,3134.26,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-07-01,2025-07-31,monthly,max_acp,10.0,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-07-01,2025-07-31,monthly,min_acp,0.2,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-07-01,2025-07-31,monthly,sell_bid_volume,1309.37,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-07-01,2025-07-31,monthly,sell_buy_bid_ratio,0.418,ratio,PRC-012,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-07-01,2025-07-31,monthly,traded_volume,996.37,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-07-01,2025-07-31,monthly,weighted_avg_acp,3.91,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-08-01,2025-08-31,monthly,buy_bid_volume,2778.88,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-08-01,2025-08-31,monthly,max_acp,10.0,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-08-01,2025-08-31,monthly,min_acp,0.2,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-08-01,2025-08-31,monthly,sell_bid_volume,1265.64,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-08-01,2025-08-31,monthly,sell_buy_bid_ratio,0.455,ratio,PRC-013,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-08-01,2025-08-31,monthly,traded_volume,902.16,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-08-01,2025-08-31,monthly,weighted_avg_acp,3.74,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-09-01,2025-09-30,monthly,buy_bid_volume,3102.51,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-09-01,2025-09-30,monthly,max_acp,10.0,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-09-01,2025-09-30,monthly,min_acp,0.5,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-09-01,2025-09-30,monthly,sell_bid_volume,1411.8,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-09-01,2025-09-30,monthly,sell_buy_bid_ratio,0.455,ratio,PRC-014,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-09-01,2025-09-30,monthly,traded_volume,994.47,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-09-01,2025-09-30,monthly,weighted_avg_acp,3.15,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-10-01,2025-10-31,monthly,buy_bid_volume,2330.6,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-10-01,2025-10-31,monthly,max_acp,10.0,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-10-01,2025-10-31,monthly,min_acp,0.2,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-10-01,2025-10-31,monthly,sell_bid_volume,1470.09,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-10-01,2025-10-31,monthly,sell_buy_bid_ratio,0.631,ratio,PRC-015,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-10-01,2025-10-31,monthly,traded_volume,1016.88,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-10-01,2025-10-31,monthly,weighted_avg_acp,2.47,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-11-01,2025-11-30,monthly,buy_bid_volume,2304.02,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-11-01,2025-11-30,monthly,max_acp,10.0,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-11-01,2025-11-30,monthly,min_acp,0.7,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-11-01,2025-11-30,monthly,sell_bid_volume,1028.08,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-11-01,2025-11-30,monthly,sell_buy_bid_ratio,0.446,ratio,PRC-016,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-11-01,2025-11-30,monthly,traded_volume,777.49,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-11-01,2025-11-30,monthly,weighted_avg_acp,3.29,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-12-01,2025-12-31,monthly,buy_bid_volume,4311.53,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-12-01,2025-12-31,monthly,max_acp,10.0,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-12-01,2025-12-31,monthly,min_acp,1.8,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2025-12-01,2025-12-31,monthly,sell_bid_volume,1103.81,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-12-01,2025-12-31,monthly,sell_buy_bid_ratio,0.256,ratio,PRC-017,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2025-12-01,2025-12-31,monthly,traded_volume,777.8,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2025-12-01,2025-12-31,monthly,weighted_avg_acp,4.21,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-01-01,2026-01-31,monthly,buy_bid_volume,4132.87,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-01-01,2026-01-31,monthly,max_acp,10.0,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-01-01,2026-01-31,monthly,min_acp,1.8,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-01-01,2026-01-31,monthly,sell_bid_volume,1198.88,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-01-01,2026-01-31,monthly,sell_buy_bid_ratio,0.29,ratio,PRC-018,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2026-01-01,2026-01-31,monthly,traded_volume,808.99,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-01-01,2026-01-31,monthly,weighted_avg_acp,4.21,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-02-01,2026-02-28,monthly,buy_bid_volume,4157.62,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-02-01,2026-02-28,monthly,max_acp,10.0,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-02-01,2026-02-28,monthly,min_acp,1.5,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-02-01,2026-02-28,monthly,sell_bid_volume,1112.85,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-02-01,2026-02-28,monthly,sell_buy_bid_ratio,0.268,ratio,PRC-019,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2026-02-01,2026-02-28,monthly,traded_volume,756.3,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-02-01,2026-02-28,monthly,weighted_avg_acp,3.43,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-03-01,2026-03-31,monthly,buy_bid_volume,4426.38,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-03-01,2026-03-31,monthly,max_acp,10.0,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-03-01,2026-03-31,monthly,min_acp,1.02,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX GDAM,2026-03-01,2026-03-31,monthly,sell_bid_volume,1230.81,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-03-01,2026-03-31,monthly,sell_buy_bid_ratio,0.278,ratio,PRC-020,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX GDAM,2026-03-01,2026-03-31,monthly,traded_volume,793.53,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX GDAM,2026-03-01,2026-03-31,monthly,weighted_avg_acp,3.84,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Green Day Ahead Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-01-01,2025-01-31,monthly,buy_bid_volume,5318.65,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-01-01,2025-01-31,monthly,max_acp,10.0,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-01-01,2025-01-31,monthly,min_acp,0.5,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-01-01,2025-01-31,monthly,sell_bid_volume,7311.7,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-01-01,2025-01-31,monthly,sell_buy_bid_ratio,1.375,ratio,PRC-006,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-01-01,2025-01-31,monthly,traded_volume,3035.92,MU,PRC-006,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-01-01,2025-01-31,monthly,weighted_avg_acp,4.23,Rs/kWh,PRC-006,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-02-01,2025-02-28,monthly,buy_bid_volume,4682.51,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-02-01,2025-02-28,monthly,max_acp,10.0,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-02-01,2025-02-28,monthly,min_acp,1.0,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-02-01,2025-02-28,monthly,sell_bid_volume,5774.78,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-02-01,2025-02-28,monthly,sell_buy_bid_ratio,1.233,ratio,PRC-007,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-02-01,2025-02-28,monthly,traded_volume,2887.47,MU,PRC-007,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-02-01,2025-02-28,monthly,weighted_avg_acp,4.21,Rs/kWh,PRC-007,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-03-01,2025-03-31,monthly,buy_bid_volume,5151.67,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-03-01,2025-03-31,monthly,max_acp,10.0,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-03-01,2025-03-31,monthly,min_acp,0.2,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-03-01,2025-03-31,monthly,sell_bid_volume,6932.66,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-03-01,2025-03-31,monthly,sell_buy_bid_ratio,1.346,ratio,PRC-008,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-03-01,2025-03-31,monthly,traded_volume,3726.6,MU,PRC-008,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-03-01,2025-03-31,monthly,weighted_avg_acp,3.93,Rs/kWh,PRC-008,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-04-01,2025-04-30,monthly,buy_bid_volume,6927.84,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-04-01,2025-04-30,monthly,max_acp,10.0,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-04-01,2025-04-30,monthly,min_acp,0.08,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-04-01,2025-04-30,monthly,sell_bid_volume,7998.83,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-04-01,2025-04-30,monthly,sell_buy_bid_ratio,1.155,ratio,PRC-009,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-04-01,2025-04-30,monthly,traded_volume,3892.89,MU,PRC-009,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-04-01,2025-04-30,monthly,weighted_avg_acp,4.04,Rs/kWh,PRC-009,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-05-01,2025-05-31,monthly,buy_bid_volume,6088.81,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-05-01,2025-05-31,monthly,max_acp,10.0,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-05-01,2025-05-31,monthly,min_acp,0.0,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-05-01,2025-05-31,monthly,sell_bid_volume,11018.12,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-05-01,2025-05-31,monthly,sell_buy_bid_ratio,1.81,ratio,PRC-010,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-05-01,2025-05-31,monthly,traded_volume,4769.9,MU,PRC-010,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-05-01,2025-05-31,monthly,weighted_avg_acp,3.14,Rs/kWh,PRC-010,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-06-01,2025-06-30,monthly,buy_bid_volume,5850.06,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-06-01,2025-06-30,monthly,max_acp,10.0,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-06-01,2025-06-30,monthly,min_acp,0.0003,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-06-01,2025-06-30,monthly,sell_bid_volume,9773.98,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-06-01,2025-06-30,monthly,sell_buy_bid_ratio,1.671,ratio,PRC-011,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-06-01,2025-06-30,monthly,traded_volume,4312.12,MU,PRC-011,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-06-01,2025-06-30,monthly,weighted_avg_acp,3.33,Rs/kWh,PRC-011,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-07-01,2025-07-31,monthly,buy_bid_volume,6586.5,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-07-01,2025-07-31,monthly,max_acp,10.0,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-07-01,2025-07-31,monthly,min_acp,0.0,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-07-01,2025-07-31,monthly,sell_bid_volume,9895.63,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-07-01,2025-07-31,monthly,sell_buy_bid_ratio,1.502,ratio,PRC-012,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-07-01,2025-07-31,monthly,traded_volume,5109.44,MU,PRC-012,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-07-01,2025-07-31,monthly,weighted_avg_acp,3.51,Rs/kWh,PRC-012,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-08-01,2025-08-31,monthly,buy_bid_volume,6579.28,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-08-01,2025-08-31,monthly,max_acp,10.0,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-08-01,2025-08-31,monthly,min_acp,0.01,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-08-01,2025-08-31,monthly,sell_bid_volume,11106.9,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-08-01,2025-08-31,monthly,sell_buy_bid_ratio,1.688,ratio,PRC-013,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-08-01,2025-08-31,monthly,traded_volume,5029.25,MU,PRC-013,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-08-01,2025-08-31,monthly,weighted_avg_acp,3.0,Rs/kWh,PRC-013,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-09-01,2025-09-30,monthly,buy_bid_volume,6354.01,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-09-01,2025-09-30,monthly,max_acp,10.0,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-09-01,2025-09-30,monthly,min_acp,0.001,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-09-01,2025-09-30,monthly,sell_bid_volume,11176.05,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-09-01,2025-09-30,monthly,sell_buy_bid_ratio,1.759,ratio,PRC-014,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-09-01,2025-09-30,monthly,traded_volume,4786.22,MU,PRC-014,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-09-01,2025-09-30,monthly,weighted_avg_acp,2.92,Rs/kWh,PRC-014,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-10-01,2025-10-31,monthly,buy_bid_volume,5433.62,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-10-01,2025-10-31,monthly,max_acp,10.0,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-10-01,2025-10-31,monthly,min_acp,0.0005,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-10-01,2025-10-31,monthly,sell_bid_volume,13306.94,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-10-01,2025-10-31,monthly,sell_buy_bid_ratio,2.449,ratio,PRC-015,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-10-01,2025-10-31,monthly,traded_volume,4583.29,MU,PRC-015,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-10-01,2025-10-31,monthly,weighted_avg_acp,2.53,Rs/kWh,PRC-015,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-11-01,2025-11-30,monthly,buy_bid_volume,5343.3,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-11-01,2025-11-30,monthly,max_acp,10.0,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-11-01,2025-11-30,monthly,min_acp,0.01,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-11-01,2025-11-30,monthly,sell_bid_volume,11501.44,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-11-01,2025-11-30,monthly,sell_buy_bid_ratio,2.152,ratio,PRC-016,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-11-01,2025-11-30,monthly,traded_volume,4232.98,MU,PRC-016,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-11-01,2025-11-30,monthly,weighted_avg_acp,3.04,Rs/kWh,PRC-016,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-12-01,2025-12-31,monthly,buy_bid_volume,5627.3,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-12-01,2025-12-31,monthly,max_acp,10.0,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-12-01,2025-12-31,monthly,min_acp,1.0,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2025-12-01,2025-12-31,monthly,sell_bid_volume,8774.68,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-12-01,2025-12-31,monthly,sell_buy_bid_ratio,1.559,ratio,PRC-017,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2025-12-01,2025-12-31,monthly,traded_volume,3833.32,MU,PRC-017,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2025-12-01,2025-12-31,monthly,weighted_avg_acp,3.79,Rs/kWh,PRC-017,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-01-01,2026-01-31,monthly,buy_bid_volume,5907.78,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-01-01,2026-01-31,monthly,max_acp,10.0,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-01-01,2026-01-31,monthly,min_acp,0.1,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-01-01,2026-01-31,monthly,sell_bid_volume,10481.23,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-01-01,2026-01-31,monthly,sell_buy_bid_ratio,1.774,ratio,PRC-018,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2026-01-01,2026-01-31,monthly,traded_volume,4638.3,MU,PRC-018,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-01-01,2026-01-31,monthly,weighted_avg_acp,3.58,Rs/kWh,PRC-018,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-02-01,2026-02-28,monthly,buy_bid_volume,5551.25,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-02-01,2026-02-28,monthly,max_acp,10.0,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-02-01,2026-02-28,monthly,min_acp,0.1,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-02-01,2026-02-28,monthly,sell_bid_volume,9475.96,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-02-01,2026-02-28,monthly,sell_buy_bid_ratio,1.707,ratio,PRC-019,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2026-02-01,2026-02-28,monthly,traded_volume,4379.12,MU,PRC-019,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-02-01,2026-02-28,monthly,weighted_avg_acp,3.4,Rs/kWh,PRC-019,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-03-01,2026-03-31,monthly,buy_bid_volume,6985.13,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-03-01,2026-03-31,monthly,max_acp,10.0,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-03-01,2026-03-31,monthly,min_acp,0.02,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)
+India,IEX RTM,2026-03-01,2026-03-31,monthly,sell_bid_volume,11036.86,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-03-01,2026-03-31,monthly,sell_buy_bid_ratio,1.58,ratio,PRC-020,DERIVED: sell_bid_volume / buy_bid_volume from the same report
+India,IEX RTM,2026-03-01,2026-03-31,monthly,traded_volume,5279.88,MU,PRC-020,"CERC MMC monthly report, section 2 text"
+India,IEX RTM,2026-03-01,2026-03-31,monthly,weighted_avg_acp,3.29,Rs/kWh,PRC-020,CERC MMC monthly report table 'Price of electricity transacted in Real Time Market' (IEX column; ACP = area clearing price)

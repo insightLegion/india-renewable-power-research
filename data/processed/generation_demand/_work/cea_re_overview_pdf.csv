@@ -1,0 +1,645 @@
+report_month,category,file,kind,start,end,value,how
+2018-10,Wind,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2018-10,2018-10,11771.66,pct-check
+2018-10,Wind,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2017-10,2017-10,6093.34,pct-check
+2018-10,Wind,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2018-04,2018-10,48153.82,pct-check
+2018-10,Wind,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2017-04,2017-10,2873.55,pct-check
+2018-10,Solar,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2018-10,2018-10,3209.96,pct-check
+2018-10,Solar,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2017-10,2017-10,2635.79,pct-check
+2018-10,Solar,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2018-04,2018-10,21365.19,pct-check
+2018-10,Solar,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2017-04,2017-10,2186.0,pct-check
+2018-10,Biomass,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2018-10,2018-10,185.61,pct-check
+2018-10,Biomass,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2017-10,2017-10,177.17,pct-check
+2018-10,Biomass,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2018-04,2018-10,1589.08,pct-check
+2018-10,Biomass,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2017-04,2017-10,271.58,pct-check
+2018-10,Bagasse,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2018-10,2018-10,231.36,pct-check
+2018-10,Bagasse,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2017-10,2017-10,218.28,pct-check
+2018-10,Bagasse,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2018-04,2018-10,3580.89,pct-check
+2018-10,Bagasse,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2017-04,2017-10,333.77,pct-check
+2018-10,Others,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2018-10,2018-10,32.16,pct-check
+2018-10,Others,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2017-10,2017-10,32.53,pct-check
+2018-10,Others,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2018-04,2018-10,26.52,pct-check
+2018-10,Others,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2017-04,2017-10,244.6,pct-check
+2018-10,Total,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2018-10,2018-10,16374.77,pct-check
+2018-10,Total,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,month,2017-10,2017-10,10745.28,pct-check
+2018-10,Total,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2018-04,2018-10,81149.18,pct-check
+2018-10,Total,2018-10_Monthly_Report_of_Renewable_Generation_11934.pdf,range,2017-04,2017-10,6537.37,pct-check
+2018-11,Wind,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2018-11,2018-11,6093.34,pct-check
+2018-11,Wind,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2017-11,2017-11,2822.78,pct-check
+2018-11,Wind,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2018-04,2018-11,50334.84,pct-check
+2018-11,Wind,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2017-04,2017-11,2435.91,pct-check
+2018-11,Solar,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2018-11,2018-11,3452.61,pct-check
+2018-11,Solar,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2017-11,2017-11,3209.96,pct-check
+2018-11,Solar,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2018-04,2018-11,24506.35,pct-check
+2018-11,Solar,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2017-04,2017-11,2094.59,pct-check
+2018-11,Biomass,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2018-11,2018-11,206.31,pct-check
+2018-11,Biomass,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2017-11,2017-11,177.17,pct-check
+2018-11,Biomass,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2018-04,2018-11,1788.8,pct-check
+2018-11,Biomass,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2017-04,2017-11,277.11,pct-check
+2018-11,Bagasse,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2018-11,2018-11,426.26,pct-check
+2018-11,Bagasse,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2017-11,2017-11,231.36,pct-check
+2018-11,Bagasse,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2018-04,2018-11,5139.69,pct-check
+2018-11,Bagasse,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2017-04,2017-11,1488.99,pct-check
+2018-11,Total,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2018-11,2018-11,10745.28,pct-check
+2018-11,Total,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,month,2017-11,2017-11,7815.21,pct-check
+2018-11,Total,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2018-04,2018-11,88945.34,pct-check
+2018-11,Total,2018-11_Monthly_Report_of_Renewable_Generation_11936.pdf,range,2017-04,2017-11,6875.2,pct-check
+2018-12,Wind,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2018-12,2018-12,2822.78,pct-check
+2018-12,Wind,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2017-12,2017-12,2181.03,pct-check
+2018-12,Wind,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2018-04,2018-12,53124.09,pct-check
+2018-12,Wind,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2017-04,2017-12,3099.86,pct-check
+2018-12,Solar,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2018-12,2018-12,3452.61,pct-check
+2018-12,Solar,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2017-12,2017-12,3140.99,pct-check
+2018-12,Solar,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2018-04,2018-12,27584.65,pct-check
+2018-12,Solar,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2017-04,2017-12,2242.64,pct-check
+2018-12,Biomass,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2018-12,2018-12,206.31,pct-check
+2018-12,Biomass,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2017-12,2017-12,199.72,pct-check
+2018-12,Biomass,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2018-04,2018-12,2035.81,pct-check
+2018-12,Biomass,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2017-04,2017-12,307.86,pct-check
+2018-12,Bagasse,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2018-12,2018-12,1558.8,pct-check
+2018-12,Bagasse,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2017-12,2017-12,426.26,pct-check
+2018-12,Bagasse,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2018-04,2018-12,7451.18,pct-check
+2018-12,Bagasse,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2017-04,2017-12,2083.81,pct-check
+2018-12,Total,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2018-12,2018-12,7815.21,pct-check
+2018-12,Total,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,month,2017-12,2017-12,7795.99,pct-check
+2018-12,Total,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2018-04,2018-12,97923.7,pct-check
+2018-12,Total,2018-12_Monthly_Report_of_Renewable_Generation_11938.pdf,range,2017-04,2017-12,8239.09,pct-check
+2019-01,Wind,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2019-01,2019-01,2789.24,pct-check
+2019-01,Wind,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2018-01,2018-01,2181.03,pct-check
+2019-01,Wind,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2018-04,2019-01,55975.98,pct-check
+2019-01,Wind,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2017-04,2018-01,2007.53,pct-check
+2019-01,Solar,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2019-01,2019-01,3140.99,pct-check
+2019-01,Solar,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2018-01,2018-01,3078.47,pct-check
+2019-01,Solar,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2018-04,2019-01,30977.48,pct-check
+2019-01,Solar,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2017-04,2018-01,2547.77,pct-check
+2019-01,Biomass,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2019-01,2019-01,247.01,pct-check
+2019-01,Biomass,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2018-01,2018-01,199.72,pct-check
+2019-01,Biomass,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2018-04,2019-01,2266.79,pct-check
+2019-01,Biomass,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2017-04,2018-01,261.69,pct-check
+2019-01,Bagasse,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2019-01,2019-01,2311.49,pct-check
+2019-01,Bagasse,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2018-01,2018-01,1558.8,pct-check
+2019-01,Bagasse,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2018-04,2019-01,9803.03,pct-check
+2019-01,Bagasse,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2017-04,2018-01,2159.55,pct-check
+2019-01,Total,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2019-01,2019-01,8979.63,pct-check
+2019-01,Total,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,month,2018-01,2018-01,7795.99,pct-check
+2019-01,Total,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2018-04,2019-01,107216.02,pct-check
+2019-01,Total,2019-01_Monthly_Report_of_Renewable_Generation_11941.pdf,range,2017-04,2018-01,7389.26,pct-check
+2019-02,Wind,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2019-02,2019-02,2851.89,pct-check
+2019-02,Wind,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2018-02,2018-02,2789.24,pct-check
+2019-02,Wind,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2018-04,2019-02,58959.72,pct-check
+2019-02,Wind,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2017-04,2018-02,2272.87,pct-check
+2019-02,Solar,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2019-02,2019-02,3534.63,pct-check
+2019-02,Solar,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2018-02,2018-02,3182.11,pct-check
+2019-02,Solar,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2018-04,2019-02,34918.94,pct-check
+2019-02,Solar,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2017-04,2018-02,2677.1,pct-check
+2019-02,Biomass,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2019-02,2019-02,247.01,pct-check
+2019-02,Biomass,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2018-02,2018-02,230.98,pct-check
+2019-02,Biomass,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2018-04,2019-02,2509.32,pct-check
+2019-02,Biomass,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2017-04,2018-02,274.37,pct-check
+2019-02,Bagasse,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2019-02,2019-02,2351.84,pct-check
+2019-02,Bagasse,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2018-02,2018-02,2311.49,pct-check
+2019-02,Bagasse,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2018-04,2019-02,11767.44,pct-check
+2019-02,Bagasse,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2017-04,2018-02,1901.73,pct-check
+2019-02,Small Hydro,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2019-02,2019-02,1001.29,pct-check
+2019-02,Small Hydro,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2018-02,2018-02,872.37,pct-check
+2019-02,Small Hydro,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2018-04,2019-02,516.72,pct-check
+2019-02,Small Hydro,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2017-04,2018-02,428.57,pct-check
+2019-02,Total,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2019-02,2019-02,9433.02,pct-check
+2019-02,Total,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,month,2018-02,2018-02,9083.27,pct-check
+2019-02,Total,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2018-04,2019-02,116786.93,pct-check
+2019-02,Total,2019-02_Monthly_Report_of_Renewable_Generation_11943.pdf,range,2017-04,2018-02,7496.37,pct-check
+2019-03,Wind,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2019-03,2019-03,3094.47,pct-check
+2019-03,Wind,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2018-03,2018-03,2851.89,pct-check
+2019-03,Wind,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2018-04,2019-03,62036.38,pct-check
+2019-03,Wind,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2017-04,2018-03,2906.76,pct-check
+2019-03,Solar,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2019-03,2019-03,3630.48,pct-check
+2019-03,Solar,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2018-03,2018-03,3534.81,pct-check
+2019-03,Solar,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2018-04,2019-03,39268.2,pct-check
+2019-03,Solar,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2017-04,2018-03,3311.53,pct-check
+2019-03,Biomass,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2019-03,2019-03,241.71,pct-check
+2019-03,Biomass,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2018-03,2018-03,230.98,pct-check
+2019-03,Biomass,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2018-04,2019-03,2763.82,pct-check
+2019-03,Biomass,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2017-04,2018-03,270.43,pct-check
+2019-03,Bagasse,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2019-03,2019-03,2351.84,pct-check
+2019-03,Bagasse,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2018-03,2018-03,1944.78,pct-check
+2019-03,Bagasse,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2018-04,2019-03,13562.67,pct-check
+2019-03,Bagasse,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2017-04,2018-03,1794.22,pct-check
+2019-03,Total,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2019-03,2019-03,9433.21,pct-check
+2019-03,Total,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,month,2018-03,2018-03,9342.96,pct-check
+2019-03,Total,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2018-04,2019-03,126759.09,pct-check
+2019-03,Total,2019-03_Monthly_Report_of_Renewable_Generation_11945.pdf,range,2017-04,2018-03,8692.9,pct-check
+2019-08,Wind,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2019-08,2019-08,9704.0,pct-check
+2019-08,Wind,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2018-08,2018-08,11771.64,pct-check
+2019-08,Wind,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2019-04,2019-08,40139.96,pct-check
+2019-08,Wind,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2018-04,2018-08,39248.1,pct-check
+2019-08,Solar,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2019-08,2019-08,3575.73,pct-check
+2019-08,Solar,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2018-08,2018-08,2635.8,pct-check
+2019-08,Solar,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2019-04,2019-08,19418.01,pct-check
+2019-08,Solar,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2018-04,2018-08,14702.49,pct-check
+2019-08,Biomass,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2019-08,2019-08,234.17,pct-check
+2019-08,Biomass,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2018-08,2018-08,185.61,pct-check
+2019-08,Biomass,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2019-04,2019-08,1175.7,pct-check
+2019-08,Biomass,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2018-04,2018-08,1205.59,pct-check
+2019-08,Bagasse,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2019-08,2019-08,251.26,pct-check
+2019-08,Bagasse,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2018-08,2018-08,218.28,pct-check
+2019-08,Bagasse,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2019-04,2019-08,2630.43,pct-check
+2019-08,Bagasse,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2018-04,2018-08,2923.27,pct-check
+2019-08,Small Hydro,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2019-08,2019-08,1120.46,pct-check
+2019-08,Small Hydro,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2018-08,2018-08,1530.91,pct-check
+2019-08,Small Hydro,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2019-04,2019-08,3755.3,pct-check
+2019-08,Small Hydro,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2018-04,2018-08,4331.86,pct-check
+2019-08,Others,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2019-08,2019-08,25.09,pct-check
+2019-08,Others,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2018-08,2018-08,32.53,pct-check
+2019-08,Others,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2019-04,2019-08,160.5,pct-check
+2019-08,Others,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2018-04,2018-08,177.57,pct-check
+2019-08,Total,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2019-08,2019-08,14910.7,pct-check
+2019-08,Total,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,month,2018-08,2018-08,16374.77,pct-check
+2019-08,Total,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2019-04,2019-08,67279.88,pct-check
+2019-08,Total,2019-08_Monthly_Report_of_Renewable_Generation_11955.pdf,range,2018-04,2018-08,62588.88,pct-check
+2019-09,Wind,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2019-09,2019-09,5477.93,pct-check
+2019-09,Wind,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2018-09,2018-09,6093.34,pct-check
+2019-09,Wind,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2019-04,2019-09,45617.89,pct-check
+2019-09,Wind,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2018-04,2018-09,45341.43,pct-check
+2019-09,Solar,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2019-09,2019-09,3565.14,pct-check
+2019-09,Solar,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2018-09,2018-09,3209.95,pct-check
+2019-09,Solar,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2019-04,2019-09,23046.8,pct-check
+2019-09,Solar,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2018-04,2018-09,17912.44,pct-check
+2019-09,Biomass,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2019-09,2019-09,202.23,pct-check
+2019-09,Biomass,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2018-09,2018-09,177.17,pct-check
+2019-09,Biomass,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2019-04,2019-09,1377.93,pct-check
+2019-09,Biomass,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2018-04,2018-09,1382.76,pct-check
+2019-09,Bagasse,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2019-09,2019-09,234.16,pct-check
+2019-09,Bagasse,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2018-09,2018-09,231.36,pct-check
+2019-09,Bagasse,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2019-04,2019-09,2864.58,pct-check
+2019-09,Bagasse,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2018-04,2018-09,3154.62,pct-check
+2019-09,Small Hydro,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2019-09,2019-09,1290.36,pct-check
+2019-09,Small Hydro,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2018-09,2018-09,1001.29,pct-check
+2019-09,Small Hydro,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2019-04,2019-09,5045.65,pct-check
+2019-09,Small Hydro,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2018-04,2018-09,5333.14,pct-check
+2019-09,Others,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2019-09,2019-09,26.83,pct-check
+2019-09,Others,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2018-09,2018-09,32.16,pct-check
+2019-09,Others,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2019-04,2019-09,187.33,pct-check
+2019-09,Others,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2018-04,2018-09,209.72,pct-check
+2019-09,Total,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2019-09,2019-09,10796.66,pct-check
+2019-09,Total,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,month,2018-09,2018-09,10745.28,pct-check
+2019-09,Total,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2019-04,2019-09,78140.19,pct-check
+2019-09,Total,2019-09_Monthly_Report_of_Renewable_Generation_11957.pdf,range,2018-04,2018-09,73334.11,pct-check
+2019-10,Wind,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2019-10,2019-10,2111.48,pct-check
+2019-10,Wind,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2018-10,2018-10,2819.96,pct-check
+2019-10,Wind,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2019-04,2019-10,47729.38,pct-check
+2019-10,Wind,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2018-04,2018-10,48161.39,pct-check
+2019-10,Solar,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2019-10,2019-10,3882.41,pct-check
+2019-10,Solar,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2018-10,2018-10,3455.43,pct-check
+2019-10,Solar,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2019-04,2019-10,26929.21,pct-check
+2019-10,Solar,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2018-04,2018-10,21367.87,pct-check
+2019-10,Biomass,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2019-10,2019-10,249.16,pct-check
+2019-10,Biomass,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2018-10,2018-10,206.31,pct-check
+2019-10,Biomass,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2019-04,2019-10,1627.09,pct-check
+2019-10,Biomass,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2018-04,2018-10,1589.06,pct-check
+2019-10,Bagasse,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2019-10,2019-10,249.76,pct-check
+2019-10,Bagasse,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2018-10,2018-10,426.26,pct-check
+2019-10,Bagasse,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2019-04,2019-10,3114.35,pct-check
+2019-10,Bagasse,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2018-04,2018-10,3580.88,pct-check
+2019-10,Small Hydro,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2019-10,2019-10,1110.11,pct-check
+2019-10,Small Hydro,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2018-10,2018-10,872.37,pct-check
+2019-10,Small Hydro,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2019-04,2019-10,6155.77,pct-check
+2019-10,Small Hydro,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2018-04,2018-10,6205.51,pct-check
+2019-10,Others,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2019-10,2019-10,31.79,pct-check
+2019-10,Others,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2018-10,2018-10,34.87,pct-check
+2019-10,Others,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2019-04,2019-10,219.12,pct-check
+2019-10,Others,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2018-04,2018-10,244.59,pct-check
+2019-10,Total,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2019-10,2019-10,7634.73,pct-check
+2019-10,Total,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,month,2018-10,2018-10,7815.21,pct-check
+2019-10,Total,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2019-04,2019-10,85774.92,pct-check
+2019-10,Total,2019-10_Monthly_Report_of_Renewable_Generation_11959.pdf,range,2018-04,2018-10,81149.31,pct-check
+2019-12,Wind,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2019-12,2019-12,3948.74,pct-check
+2019-12,Wind,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2018-12,2018-12,2789.24,pct-check
+2019-12,Wind,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2019-04,2019-12,54401.94,pct-check
+2019-12,Wind,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2018-04,2018-12,53124.09,pct-check
+2019-12,Solar,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2019-12,2019-12,3928.39,pct-check
+2019-12,Solar,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2018-12,2018-12,3182.12,pct-check
+2019-12,Solar,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2019-04,2019-12,34794.42,pct-check
+2019-12,Solar,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2018-04,2018-12,27794.92,pct-check
+2019-12,Biomass,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2019-12,2019-12,239.09,pct-check
+2019-12,Biomass,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2018-12,2018-12,247.01,pct-check
+2019-12,Biomass,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2019-04,2019-12,2073.84,pct-check
+2019-12,Biomass,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2018-04,2018-12,2035.81,pct-check
+2019-12,Bagasse,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2019-12,2019-12,1857.18,pct-check
+2019-12,Bagasse,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2018-12,2018-12,2311.49,pct-check
+2019-12,Bagasse,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2019-04,2019-12,5834.23,pct-check
+2019-12,Bagasse,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2018-04,2018-12,7451.18,pct-check
+2019-12,Small Hydro,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2019-12,2019-12,701.69,pct-check
+2019-12,Small Hydro,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2018-12,2018-12,516.72,pct-check
+2019-12,Small Hydro,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2019-04,2019-12,7692.99,pct-check
+2019-12,Small Hydro,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2018-04,2018-12,7410.48,pct-check
+2019-12,Others,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2019-12,2019-12,29.61,pct-check
+2019-12,Others,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2018-12,2018-12,36.69,pct-check
+2019-12,Others,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2019-04,2019-12,276.31,pct-check
+2019-12,Others,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2018-04,2018-12,318.58,pct-check
+2019-12,Total,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2019-12,2019-12,10704.71,pct-check
+2019-12,Total,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,month,2018-12,2018-12,9083.27,pct-check
+2019-12,Total,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2019-04,2019-12,105073.73,pct-check
+2019-12,Total,2019-12_Monthly_Report_of_Renewable_Generation_11962.pdf,range,2018-04,2018-12,98135.07,pct-check
+2020-01,Wind,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2020-01,2020-01,3319.95,pct-check
+2020-01,Wind,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2019-01,2019-01,2851.89,pct-check
+2020-01,Wind,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2019-04,2020-01,57721.89,pct-check
+2020-01,Wind,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2018-04,2019-01,55975.98,pct-check
+2020-01,Solar,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2020-01,2020-01,4612.72,pct-check
+2020-01,Solar,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2019-01,2019-01,3534.81,pct-check
+2020-01,Solar,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2019-04,2020-01,39407.14,pct-check
+2020-01,Solar,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2018-04,2019-01,31329.74,pct-check
+2020-01,Biomass,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2020-01,2020-01,273.21,pct-check
+2020-01,Biomass,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2019-01,2019-01,230.98,pct-check
+2020-01,Biomass,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2019-04,2020-01,2347.05,pct-check
+2020-01,Biomass,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2018-04,2019-01,2266.79,pct-check
+2020-01,Bagasse,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2020-01,2020-01,1906.91,pct-check
+2020-01,Bagasse,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2019-01,2019-01,2351.84,pct-check
+2020-01,Bagasse,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2019-04,2020-01,7741.14,pct-check
+2020-01,Bagasse,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2018-04,2019-01,9803.03,pct-check
+2020-01,Small Hydro,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2020-01,2020-01,562.16,pct-check
+2020-01,Small Hydro,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2019-01,2019-01,428.57,pct-check
+2020-01,Small Hydro,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2019-04,2020-01,8255.16,pct-check
+2020-01,Small Hydro,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2018-04,2019-01,7839.06,pct-check
+2020-01,Others,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2020-01,2020-01,23.95,pct-check
+2020-01,Others,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2019-01,2019-01,35.11,pct-check
+2020-01,Others,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2019-04,2020-01,300.26,pct-check
+2020-01,Others,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2018-04,2019-01,353.69,pct-check
+2020-01,Total,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2020-01,2020-01,10698.91,pct-check
+2020-01,Total,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,month,2019-01,2019-01,9433.21,pct-check
+2020-01,Total,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2019-04,2020-01,115772.65,pct-check
+2020-01,Total,2020-01_Monthly_Report_of_Renewable_Generation_11729.pdf,range,2018-04,2019-01,107568.28,pct-check
+2020-02,Wind,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2020-02,2020-02,3319.95,pct-check
+2020-02,Wind,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2019-02,2019-02,2851.89,pct-check
+2020-02,Wind,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2019-04,2020-02,57721.89,pct-check
+2020-02,Wind,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2018-04,2019-02,55975.98,pct-check
+2020-02,Solar,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2020-02,2020-02,4612.72,pct-check
+2020-02,Solar,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2019-02,2019-02,3534.81,pct-check
+2020-02,Solar,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2019-04,2020-02,39407.14,pct-check
+2020-02,Solar,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2018-04,2019-02,31329.74,pct-check
+2020-02,Biomass,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2020-02,2020-02,273.21,pct-check
+2020-02,Biomass,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2019-02,2019-02,230.98,pct-check
+2020-02,Biomass,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2019-04,2020-02,2347.05,pct-check
+2020-02,Biomass,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2018-04,2019-02,2266.79,pct-check
+2020-02,Bagasse,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2020-02,2020-02,1906.91,pct-check
+2020-02,Bagasse,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2019-02,2019-02,2351.84,pct-check
+2020-02,Bagasse,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2019-04,2020-02,7741.14,pct-check
+2020-02,Bagasse,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2018-04,2019-02,9803.03,pct-check
+2020-02,Small Hydro,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2020-02,2020-02,562.16,pct-check
+2020-02,Small Hydro,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2019-02,2019-02,428.57,pct-check
+2020-02,Small Hydro,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2019-04,2020-02,8255.16,pct-check
+2020-02,Small Hydro,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2018-04,2019-02,7839.06,pct-check
+2020-02,Others,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2020-02,2020-02,23.95,pct-check
+2020-02,Others,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2019-02,2019-02,35.11,pct-check
+2020-02,Others,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2019-04,2020-02,300.26,pct-check
+2020-02,Others,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2018-04,2019-02,353.69,pct-check
+2020-02,Total,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2020-02,2020-02,10698.91,pct-check
+2020-02,Total,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,month,2019-02,2019-02,9433.21,pct-check
+2020-02,Total,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2019-04,2020-02,115772.65,pct-check
+2020-02,Total,2020-02_Monthly_Report_of_Renewable_Generation_11733.pdf,range,2018-04,2019-02,107568.28,pct-check
+2020-03,Wind,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2020-03,2020-03,3405.61,pct-check
+2020-03,Wind,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2019-03,2019-03,2965.93,pct-check
+2020-03,Wind,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2019-04,2020-03,64646.37,pct-check
+2020-03,Wind,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2018-04,2019-03,62036.38,pct-check
+2020-03,Solar,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2020-03,2020-03,5633.3,pct-check
+2020-03,Solar,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2019-03,2019-03,4307.98,pct-check
+2020-03,Solar,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2019-04,2020-03,50131.1,pct-check
+2020-03,Solar,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2018-04,2019-03,39268.2,pct-check
+2020-03,Biomass,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2020-03,2020-03,282.16,pct-check
+2020-03,Biomass,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2019-03,2019-03,255.32,pct-check
+2020-03,Biomass,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2019-04,2020-03,2937.96,pct-check
+2020-03,Biomass,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2018-04,2019-03,2763.82,pct-check
+2020-03,Bagasse,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2020-03,2020-03,1319.96,pct-check
+2020-03,Bagasse,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2019-03,2019-03,1814.86,pct-check
+2020-03,Bagasse,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2019-04,2020-03,10804.46,pct-check
+2020-03,Bagasse,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2018-04,2019-03,13562.67,pct-check
+2020-03,Small Hydro,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2020-03,2020-03,639.66,pct-check
+2020-03,Small Hydro,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2019-03,2019-03,473.06,pct-check
+2020-03,Small Hydro,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2019-04,2020-03,9451.22,pct-check
+2020-03,Small Hydro,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2018-04,2019-03,8702.75,pct-check
+2020-03,Others,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2020-03,2020-03,36.96,pct-check
+2020-03,Others,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2019-03,2019-03,30.7,pct-check
+2020-03,Others,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2019-04,2020-03,365.9,pct-check
+2020-03,Others,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2018-04,2019-03,425.28,pct-check
+2020-03,Total,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2020-03,2020-03,11317.65,pct-check
+2020-03,Total,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,month,2019-03,2019-03,9847.86,pct-check
+2020-03,Total,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2019-04,2020-03,138337.02,pct-check
+2020-03,Total,2020-03_Monthly_Report_of_Renewable_Generation_11739.pdf,range,2018-04,2019-03,126759.09,pct-check
+2020-04,Wind,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2020-04,2020-04,3448.94,pct-check
+2020-04,Wind,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2019-04,2019-04,3707.28,pct-check
+2020-04,Wind,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2020-04,2020-04,3448.94,pct-check
+2020-04,Wind,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2019-04,2019-04,3707.28,pct-check
+2020-04,Solar,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2020-04,2020-04,5338.9,pct-check
+2020-04,Solar,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2019-04,2019-04,4181.23,pct-check
+2020-04,Solar,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2020-04,2020-04,5338.9,pct-check
+2020-04,Solar,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2019-04,2019-04,4181.23,pct-check
+2020-04,Biomass,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2020-04,2020-04,265.1,pct-check
+2020-04,Biomass,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2019-04,2019-04,235.01,pct-check
+2020-04,Biomass,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2020-04,2020-04,265.1,pct-check
+2020-04,Biomass,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2019-04,2019-04,235.01,pct-check
+2020-04,Bagasse,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2020-04,2020-04,917.86,pct-check
+2020-04,Bagasse,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2019-04,2019-04,1201.29,pct-check
+2020-04,Bagasse,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2020-04,2020-04,917.86,pct-check
+2020-04,Bagasse,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2019-04,2019-04,1201.29,pct-check
+2020-04,Small Hydro,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2020-04,2020-04,629.84,pct-check
+2020-04,Small Hydro,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2019-04,2019-04,518.13,pct-check
+2020-04,Small Hydro,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2020-04,2020-04,629.84,pct-check
+2020-04,Small Hydro,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2019-04,2019-04,518.13,pct-check
+2020-04,Others,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2020-04,2020-04,33.18,pct-check
+2020-04,Others,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2019-04,2019-04,38.77,pct-check
+2020-04,Others,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2020-04,2020-04,33.18,pct-check
+2020-04,Others,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2019-04,2019-04,38.77,pct-check
+2020-04,Total,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2020-04,2020-04,10633.82,pct-check
+2020-04,Total,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,month,2019-04,2019-04,9881.7,pct-check
+2020-04,Total,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2020-04,2020-04,10633.82,pct-check
+2020-04,Total,2020-04_Monthly_Report_of_Renewable_Generation_11744.pdf,range,2019-04,2019-04,9881.7,pct-check
+2020-05,Wind,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2020-05,2020-05,6237.89,pct-check
+2020-05,Wind,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2019-05,2019-05,6603.94,pct-check
+2020-05,Wind,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2020-04,2020-05,9711.75,pct-check
+2020-05,Wind,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2019-04,2019-05,10311.22,pct-check
+2020-05,Solar,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2020-05,2020-05,5606.88,pct-check
+2020-05,Solar,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2019-05,2019-05,4342.59,pct-check
+2020-05,Solar,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2020-04,2020-05,10960.33,pct-check
+2020-05,Solar,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2019-04,2019-05,8523.82,pct-check
+2020-05,Biomass,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2020-05,2020-05,311.98,pct-check
+2020-05,Biomass,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2019-05,2019-05,229.03,pct-check
+2020-05,Biomass,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2020-04,2020-05,581.95,pct-check
+2020-05,Biomass,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2019-04,2019-05,464.04,pct-check
+2020-05,Bagasse,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2020-05,2020-05,611.55,pct-check
+2020-05,Bagasse,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2019-05,2019-05,632.78,pct-check
+2020-05,Bagasse,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2020-04,2020-05,1499.72,pct-check
+2020-05,Bagasse,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2019-04,2019-05,1834.07,pct-check
+2020-05,Small Hydro,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2020-05,2020-05,769.13,pct-check
+2020-05,Small Hydro,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2019-05,2019-05,592.36,pct-check
+2020-05,Small Hydro,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2020-04,2020-05,1462.73,pct-check
+2020-05,Small Hydro,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2019-04,2019-05,1110.49,pct-check
+2020-05,Others,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2020-05,2020-05,36.47,pct-check
+2020-05,Others,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2019-05,2019-05,29.37,pct-check
+2020-05,Others,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2020-04,2020-05,69.74,pct-check
+2020-05,Others,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2019-04,2019-05,68.14,pct-check
+2020-05,Total,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2020-05,2020-05,13573.9,pct-check
+2020-05,Total,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,month,2019-05,2019-05,12430.07,pct-check
+2020-05,Total,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2020-04,2020-05,24286.23,pct-check
+2020-05,Total,2020-05_Monthly_Report_of_Renewable_Generation_11751.pdf,range,2019-04,2019-05,22311.77,pct-check
+2020-06,Wind,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2020-06,2020-06,7895.79,pct-check
+2020-06,Wind,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2019-06,2019-06,8781.15,pct-check
+2020-06,Wind,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2020-04,2020-06,17607.54,pct-check
+2020-06,Wind,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2019-04,2019-06,19092.38,pct-check
+2020-06,Solar,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2020-06,2020-06,4706.21,pct-check
+2020-06,Solar,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2019-06,2019-06,3931.59,pct-check
+2020-06,Solar,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2020-04,2020-06,15666.54,pct-check
+2020-06,Solar,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2019-04,2019-06,12455.39,pct-check
+2020-06,Biomass,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2020-06,2020-06,298.11,pct-check
+2020-06,Biomass,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2019-06,2019-06,202.27,pct-check
+2020-06,Biomass,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2020-04,2020-06,880.05,pct-check
+2020-06,Biomass,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2019-04,2019-06,666.31,pct-check
+2020-06,Bagasse,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2020-06,2020-06,181.33,pct-check
+2020-06,Bagasse,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2019-06,2019-06,313.76,pct-check
+2020-06,Bagasse,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2020-04,2020-06,1681.06,pct-check
+2020-06,Bagasse,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2019-04,2019-06,2147.82,pct-check
+2020-06,Small Hydro,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2020-06,2020-06,817.3,pct-check
+2020-06,Small Hydro,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2019-06,2019-06,665.56,pct-check
+2020-06,Small Hydro,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2020-04,2020-06,2280.03,pct-check
+2020-06,Small Hydro,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2019-04,2019-06,1776.06,pct-check
+2020-06,Others,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2020-06,2020-06,123.46,pct-check
+2020-06,Others,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2019-06,2019-06,38.23,pct-check
+2020-06,Others,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2020-04,2020-06,193.19,pct-check
+2020-06,Others,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2019-04,2019-06,106.38,pct-check
+2020-06,Total,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2020-06,2020-06,14022.19,pct-check
+2020-06,Total,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,month,2019-06,2019-06,13932.56,pct-check
+2020-06,Total,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2020-04,2020-06,38308.42,pct-check
+2020-06,Total,2020-06_Monthly_Report_of_Renewable_Generation_11753.pdf,range,2019-04,2019-06,36244.34,pct-check
+2020-07,Wind,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2020-07,2020-07,6966.96,pct-check
+2020-07,Wind,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2019-07,2019-07,11343.58,pct-check
+2020-07,Wind,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2020-04,2020-07,24574.5,pct-check
+2020-07,Wind,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2019-04,2019-07,30435.96,pct-check
+2020-07,Solar,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2020-07,2020-07,4639.48,pct-check
+2020-07,Solar,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2019-07,2019-07,3438.81,pct-check
+2020-07,Solar,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2020-04,2020-07,20314.47,pct-check
+2020-07,Solar,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2019-04,2019-07,15894.21,pct-check
+2020-07,Biomass,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2020-07,2020-07,278.91,pct-check
+2020-07,Biomass,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2019-07,2019-07,275.22,pct-check
+2020-07,Biomass,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2020-04,2020-07,1161.36,pct-check
+2020-07,Biomass,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2019-04,2019-07,941.53,pct-check
+2020-07,Bagasse,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2020-07,2020-07,164.17,pct-check
+2020-07,Bagasse,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2019-07,2019-07,231.34,pct-check
+2020-07,Bagasse,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2020-04,2020-07,1846.71,pct-check
+2020-07,Bagasse,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2019-04,2019-07,2379.17,pct-check
+2020-07,Small Hydro,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2020-07,2020-07,1079.69,pct-check
+2020-07,Small Hydro,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2019-07,2019-07,858.79,pct-check
+2020-07,Small Hydro,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2020-04,2020-07,3361.34,pct-check
+2020-07,Small Hydro,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2019-04,2019-07,2634.84,pct-check
+2020-07,Others,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2020-07,2020-07,144.23,pct-check
+2020-07,Others,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2019-07,2019-07,29.04,pct-check
+2020-07,Others,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2020-04,2020-07,337.42,pct-check
+2020-07,Others,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2019-04,2019-07,135.41,pct-check
+2020-07,Total,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2020-07,2020-07,13273.43,pct-check
+2020-07,Total,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,month,2019-07,2019-07,16176.78,pct-check
+2020-07,Total,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2020-04,2020-07,51595.79,pct-check
+2020-07,Total,2020-07_Monthly_Report_of_Renewable_Generation_11760.pdf,range,2019-04,2019-07,52421.12,pct-check
+2023-02,Wind,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2023-02,2023-02,3126.99,pct-check
+2023-02,Wind,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2022-02,2022-02,3107.74,pct-check
+2023-02,Wind,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2022-04,2023-02,67673.09,pct-check
+2023-02,Wind,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2021-04,2022-02,64633.23,pct-check
+2023-02,Solar,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2023-02,2023-02,9555.41,pct-check
+2023-02,Solar,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2022-02,2022-02,7276.18,pct-check
+2023-02,Solar,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2022-04,2023-02,91769.91,pct-check
+2023-02,Solar,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2021-04,2022-02,65145.71,pct-check
+2023-02,Biomass,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2023-02,2023-02,290.22,pct-check
+2023-02,Biomass,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2022-02,2022-02,275.07,pct-check
+2023-02,Biomass,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2022-04,2023-02,2873.39,pct-check
+2023-02,Biomass,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2021-04,2022-02,3143.0,pct-check
+2023-02,Bagasse,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2023-02,2023-02,1862.92,pct-check
+2023-02,Bagasse,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2022-02,2022-02,1923.38,pct-check
+2023-02,Bagasse,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2022-04,2023-02,11179.51,pct-check
+2023-02,Bagasse,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2021-04,2022-02,10466.36,pct-check
+2023-02,Small Hydro,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2023-02,2023-02,560.81,pct-check
+2023-02,Small Hydro,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2022-02,2022-02,567.6,pct-check
+2023-02,Small Hydro,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2022-04,2023-02,10591.79,pct-check
+2023-02,Small Hydro,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2021-04,2022-02,9824.47,pct-check
+2023-02,Others,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2023-02,2023-02,203.01,pct-check
+2023-02,Others,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2022-02,2022-02,180.71,pct-check
+2023-02,Others,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2022-04,2023-02,2299.77,pct-check
+2023-02,Others,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2021-04,2022-02,2056.46,pct-check
+2023-02,Total,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2023-02,2023-02,15599.36,pct-check
+2023-02,Total,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,month,2022-02,2022-02,13330.69,pct-check
+2023-02,Total,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2022-04,2023-02,186387.46,pct-check
+2023-02,Total,2023-02_Monthly_Report_of_Renewable_Generation_11853.pdf,range,2021-04,2022-02,155269.24,pct-check
+2026-01,Wind,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,6944.2,pct-check
+2026-01,Wind,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,5637.69,pct-check
+2026-01,Wind,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,95586.95,pct-check
+2026-01,Wind,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,73621.08,pct-check
+2026-01,Solar,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,15854.67,pct-check
+2026-01,Solar,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,12285.74,pct-check
+2026-01,Solar,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,138386.93,pct-check
+2026-01,Solar,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,114425.28,pct-check
+2026-01,Biomass,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,380.27,pct-check
+2026-01,Biomass,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,356.41,pct-check
+2026-01,Biomass,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,3377.6,pct-check
+2026-01,Biomass,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,3053.18,pct-check
+2026-01,Bagasse,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,1996.61,pct-check
+2026-01,Bagasse,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,2041.06,pct-check
+2026-01,Bagasse,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,7635.91,pct-check
+2026-01,Bagasse,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,6792.77,pct-check
+2026-01,Small Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,607.69,pct-check
+2026-01,Small Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,624.57,pct-check
+2026-01,Small Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,10885.08,pct-check
+2026-01,Small Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,10391.01,pct-check
+2026-01,Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,7852.09,pct-check
+2026-01,Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,7388.05,pct-check
+2026-01,Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,150039.12,pct-check
+2026-01,Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,132899.81,pct-check
+2026-01,Others,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,259.69,pct-check
+2026-01,Others,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,239.24,pct-check
+2026-01,Others,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,2453.59,pct-check
+2026-01,Others,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,2390.93,pct-check
+2026-01,Total Including Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,33895.22,pct-check
+2026-01,Total Including Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,28572.76,pct-check
+2026-01,Total Including Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,408365.17,pct-check
+2026-01,Total Including Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,343574.06,pct-check
+2026-01,Total Excluding Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2026-01,2026-01,26043.13,pct-check
+2026-01,Total Excluding Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,month,2025-01,2025-01,21184.71,pct-check
+2026-01,Total Excluding Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2025-04,2026-01,258326.05,pct-check
+2026-01,Total Excluding Large Hydro,2026-01_Monthly_Report_of_Renewable_Generation_10800.pdf,range,2024-04,2025-01,210674.25,pct-check
+2026-02,Wind,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,5661.07,pct-check
+2026-02,Wind,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,4592.48,pct-check
+2026-02,Wind,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,101248.02,pct-check
+2026-02,Wind,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,78213.56,pct-check
+2026-02,Solar,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,16983.54,pct-check
+2026-02,Solar,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,12913.58,pct-check
+2026-02,Solar,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,155370.47,pct-check
+2026-02,Solar,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,127338.85,pct-check
+2026-02,Biomass,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,354.67,pct-check
+2026-02,Biomass,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,339.16,pct-check
+2026-02,Biomass,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,3732.27,pct-check
+2026-02,Biomass,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,3392.34,pct-check
+2026-02,Bagasse,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,1506.96,pct-check
+2026-02,Bagasse,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,1556.29,pct-check
+2026-02,Bagasse,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,9142.87,pct-check
+2026-02,Bagasse,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,8349.06,pct-check
+2026-02,Small Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,538.7,pct-check
+2026-02,Small Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,561.87,pct-check
+2026-02,Small Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,11423.78,pct-check
+2026-02,Small Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,10952.88,pct-check
+2026-02,Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,7660.59,pct-check
+2026-02,Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,6970.88,pct-check
+2026-02,Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,157699.71,pct-check
+2026-02,Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,139870.69,pct-check
+2026-02,Others,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,250.23,pct-check
+2026-02,Others,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,230.29,pct-check
+2026-02,Others,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,2703.82,pct-check
+2026-02,Others,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,2621.22,pct-check
+2026-02,Total Including Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,32955.76,pct-check
+2026-02,Total Including Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,27164.55,pct-check
+2026-02,Total Including Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,441320.94,pct-check
+2026-02,Total Including Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,370738.61,pct-check
+2026-02,Total Excluding Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2026-02,2026-02,25295.17,pct-check
+2026-02,Total Excluding Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,month,2025-02,2025-02,20193.67,pct-check
+2026-02,Total Excluding Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2025-04,2026-02,283621.23,pct-check
+2026-02,Total Excluding Large Hydro,2026-02_Monthly_Report_of_Renewable_Generation_10802.pdf,range,2024-04,2025-02,230867.92,pct-check
+2026-03,Wind,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,5451.78,pct-check
+2026-03,Wind,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,5133.63,pct-check
+2026-03,Wind,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,106699.8,pct-check
+2026-03,Wind,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,83347.19,pct-check
+2026-03,Solar,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,19386.04,pct-check
+2026-03,Solar,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,16811.38,pct-check
+2026-03,Solar,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,174756.51,pct-check
+2026-03,Solar,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,144150.23,pct-check
+2026-03,Biomass,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,411.44,pct-check
+2026-03,Biomass,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,346.33,pct-check
+2026-03,Biomass,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,4143.71,pct-check
+2026-03,Biomass,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,3738.67,pct-check
+2026-03,Bagasse,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,795.47,pct-check
+2026-03,Bagasse,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,986.25,pct-check
+2026-03,Bagasse,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,9938.34,pct-check
+2026-03,Bagasse,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,9335.32,pct-check
+2026-03,Small Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,590.35,pct-check
+2026-03,Small Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,615.16,pct-check
+2026-03,Small Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,12014.12,pct-check
+2026-03,Small Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,11568.04,pct-check
+2026-03,Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,9501.26,pct-check
+2026-03,Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,8763.28,pct-check
+2026-03,Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,167203.78,pct-check
+2026-03,Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,148633.98,pct-check
+2026-03,Others,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,328.98,pct-check
+2026-03,Others,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,248.51,pct-check
+2026-03,Others,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,3032.8,pct-check
+2026-03,Others,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,2869.73,pct-check
+2026-03,Total Including Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,36465.32,pct-check
+2026-03,Total Including Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,32904.55,pct-check
+2026-03,Total Including Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,477789.07,pct-check
+2026-03,Total Including Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,403643.17,pct-check
+2026-03,Total Excluding Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2026-03,2026-03,26964.06,pct-check
+2026-03,Total Excluding Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,month,2025-03,2025-03,24141.27,pct-check
+2026-03,Total Excluding Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2025-04,2026-03,310585.29,pct-check
+2026-03,Total Excluding Large Hydro,2026-03_Monthly_Report_of_Renewable_Generation_10815.pdf,range,2024-04,2025-03,255009.19,pct-check
+2026-05,Wind,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,11458.18,pct-check
+2026-05,Wind,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,10667.42,pct-check
+2026-05,Wind,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,18306.83,pct-check
+2026-05,Wind,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,16998.14,pct-check
+2026-05,Solar,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,21583.99,pct-check
+2026-05,Solar,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,14305.32,pct-check
+2026-05,Solar,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,42483.6,pct-check
+2026-05,Solar,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,30117.14,pct-check
+2026-05,Biomass,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,383.27,pct-check
+2026-05,Biomass,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,359.62,pct-check
+2026-05,Biomass,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,739.68,pct-check
+2026-05,Biomass,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,685.58,pct-check
+2026-05,Bagasse,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,256.39,pct-check
+2026-05,Bagasse,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,239.4,pct-check
+2026-05,Bagasse,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,660.1,pct-check
+2026-05,Bagasse,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,683.84,pct-check
+2026-05,Small Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,620.92,pct-check
+2026-05,Small Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,780.91,pct-check
+2026-05,Small Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,1209.41,pct-check
+2026-05,Small Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,1468.39,pct-check
+2026-05,Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,12752.34,pct-check
+2026-05,Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,13264.6,pct-check
+2026-05,Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,23516.59,pct-check
+2026-05,Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,22882.75,pct-check
+2026-05,Others,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,262.42,pct-check
+2026-05,Others,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,252.03,pct-check
+2026-05,Others,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,543.46,pct-check
+2026-05,Others,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,497.7,pct-check
+2026-05,Total Including Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,47317.5,pct-check
+2026-05,Total Including Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,39869.3,pct-check
+2026-05,Total Including Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,87459.67,pct-check
+2026-05,Total Including Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,73333.53,pct-check
+2026-05,Total Excluding Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2026-05,2026-05,34565.16,pct-check
+2026-05,Total Excluding Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,month,2025-05,2025-05,26604.7,pct-check
+2026-05,Total Excluding Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2026-04,2026-05,63943.08,pct-check
+2026-05,Total Excluding Large Hydro,2026-05_Monthly_Report_of_Renewable_Generation_10825.pdf,range,2025-04,2025-05,50450.78,pct-check
+2026-07,Wind,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,18505.0,pct-check
+2026-07,Wind,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,17572.87,pct-check
+2026-07,Wind,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,52067.83,pct-check
+2026-07,Wind,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,49450.54,pct-check
+2026-07,Solar,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,18082.3,pct-check
+2026-07,Solar,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,12100.61,pct-check
+2026-07,Solar,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,80873.44,pct-check
+2026-07,Solar,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,55145.23,pct-check
+2026-07,Biomass,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,402.9,pct-check
+2026-07,Biomass,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,336.78,pct-check
+2026-07,Biomass,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,1501.15,pct-check
+2026-07,Biomass,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,1359.65,pct-check
+2026-07,Bagasse,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,131.79,pct-check
+2026-07,Bagasse,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,996.75,pct-check
+2026-07,Bagasse,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,959.68,pct-check
+2026-07,Bagasse,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,1790.37,pct-check
+2026-07,Small Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,1146.23,pct-check
+2026-07,Small Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,1584.52,pct-check
+2026-07,Small Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,2992.51,pct-check
+2026-07,Small Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,4223.7,pct-check
+2026-07,Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,17753.87,pct-check
+2026-07,Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,21673.9,pct-check
+2026-07,Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,54632.85,pct-check
+2026-07,Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,61332.15,pct-check
+2026-07,Others,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,229.54,pct-check
+2026-07,Others,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,236.23,pct-check
+2026-07,Others,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,1037.62,pct-check
+2026-07,Others,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,969.98,pct-check
+2026-07,Total Including Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,56251.63,pct-check
+2026-07,Total Including Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,54501.65,pct-check
+2026-07,Total Including Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,194065.08,pct-check
+2026-07,Total Including Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,174271.62,pct-check
+2026-07,Total Excluding Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2026-07,2026-07,38497.76,pct-check
+2026-07,Total Excluding Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,month,2025-07,2025-07,32827.75,pct-check
+2026-07,Total Excluding Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2026-04,2026-07,139432.23,pct-check
+2026-07,Total Excluding Large Hydro,2026-07_Monthly_Report_of_Renewable_Generation_10761.pdf,range,2025-04,2025-07,112939.47,pct-check

@@ -1,0 +1,69 @@
+geography,period_start,period_end,granularity,metric,value,unit,source_id,notes
+Northern Region,2021-04-01,2022-03-31,FY,energy_requirement_projected_20th_EPS,418188.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Northern Region,2021-04-01,2022-03-31,FY,peak_demand_projected_20th_EPS,73367.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Northern Region,2026-04-01,2027-03-31,FY,energy_requirement_projected_20th_EPS,592312.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Northern Region,2026-04-01,2027-03-31,FY,peak_demand_projected_20th_EPS,97898.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Northern Region,2031-04-01,2032-03-31,FY,energy_requirement_projected_20th_EPS,773545.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Northern Region,2031-04-01,2032-03-31,FY,peak_demand_projected_20th_EPS,127553.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Western Region,2021-04-01,2022-03-31,FY,energy_requirement_projected_20th_EPS,428994.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Western Region,2021-04-01,2022-03-31,FY,peak_demand_projected_20th_EPS,65437.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Western Region,2026-04-01,2027-03-31,FY,energy_requirement_projected_20th_EPS,596793.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Western Region,2026-04-01,2027-03-31,FY,peak_demand_projected_20th_EPS,89457.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Western Region,2031-04-01,2032-03-31,FY,energy_requirement_projected_20th_EPS,763198.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Western Region,2031-04-01,2032-03-31,FY,peak_demand_projected_20th_EPS,114766.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Southern Region,2021-04-01,2022-03-31,FY,energy_requirement_projected_20th_EPS,351611.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Southern Region,2021-04-01,2022-03-31,FY,peak_demand_projected_20th_EPS,61165.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Southern Region,2026-04-01,2027-03-31,FY,energy_requirement_projected_20th_EPS,460853.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Southern Region,2026-04-01,2027-03-31,FY,peak_demand_projected_20th_EPS,80864.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Southern Region,2031-04-01,2032-03-31,FY,energy_requirement_projected_20th_EPS,596557.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Southern Region,2031-04-01,2032-03-31,FY,peak_demand_projected_20th_EPS,107259.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Eastern Region,2021-04-01,2022-03-31,FY,energy_requirement_projected_20th_EPS,164542.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Eastern Region,2021-04-01,2022-03-31,FY,peak_demand_projected_20th_EPS,26043.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Eastern Region,2026-04-01,2027-03-31,FY,energy_requirement_projected_20th_EPS,232971.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Eastern Region,2026-04-01,2027-03-31,FY,peak_demand_projected_20th_EPS,37265.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Eastern Region,2031-04-01,2032-03-31,FY,energy_requirement_projected_20th_EPS,308103.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+Eastern Region,2031-04-01,2032-03-31,FY,peak_demand_projected_20th_EPS,50420.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+North-Eastern Region,2021-04-01,2022-03-31,FY,energy_requirement_projected_20th_EPS,18312.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+North-Eastern Region,2021-04-01,2022-03-31,FY,peak_demand_projected_20th_EPS,3437.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+North-Eastern Region,2026-04-01,2027-03-31,FY,energy_requirement_projected_20th_EPS,24904.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+North-Eastern Region,2026-04-01,2027-03-31,FY,peak_demand_projected_20th_EPS,4855.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+North-Eastern Region,2031-04-01,2032-03-31,FY,energy_requirement_projected_20th_EPS,32373.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+North-Eastern Region,2031-04-01,2032-03-31,FY,peak_demand_projected_20th_EPS,6519.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+India,2021-04-01,2022-03-31,FY,energy_requirement_projected_20th_EPS,1381646.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+India,2021-04-01,2022-03-31,FY,peak_demand_projected_20th_EPS,203115.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+India,2026-04-01,2027-03-31,FY,energy_requirement_projected_20th_EPS,1907835.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+India,2026-04-01,2027-03-31,FY,peak_demand_projected_20th_EPS,277201.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+India,2031-04-01,2032-03-31,FY,energy_requirement_projected_20th_EPS,2473776.0,MU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+India,2031-04-01,2032-03-31,FY,peak_demand_projected_20th_EPS,366393.0,MW,GEN-CEA-NEP-2023,NEP 2022-32 Vol I Table 4.2 (as per 20th EPS); 2021-22 = EPS base-year value
+India,2026-04-01,2027-03-31,FY,gen_coal_lignite_likely_NEP,1203.4,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_coal_lignite_likely_NEP,59.4,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2026-04-01,2027-03-31,FY,gen_gas_likely_NEP,34.1,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_gas_likely_NEP,1.7,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2026-04-01,2027-03-31,FY,gen_nucl_likely_NEP,77.9,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_nucl_likely_NEP,3.8,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2026-04-01,2027-03-31,FY,gen_hydro_likely_NEP,207.7,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_hydro_likely_NEP,10.3,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2026-04-01,2027-03-31,FY,gen_pv_likely_NEP,339.3,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_pv_likely_NEP,16.8,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2026-04-01,2027-03-31,FY,gen_wind_power_likely_NEP,153.5,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_wind_power_likely_NEP,7.6,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2026-04-01,2027-03-31,FY,gen_other_re_likely_NEP,9.1,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_other_re_likely_NEP,0.4,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2026-04-01,2027-03-31,FY,gen_total_likely_NEP,2025.0,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27' (hydro incl. hydro imports)
+India,2026-04-01,2027-03-31,FY,share_total_likely_NEP,100.0,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2026-27'
+India,2031-04-01,2032-03-31,FY,gen_coal_lignite_likely_NEP,1334.8,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_coal_lignite_likely_NEP,50.1,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
+India,2031-04-01,2032-03-31,FY,gen_gas_likely_NEP,33.4,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_gas_likely_NEP,1.3,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
+India,2031-04-01,2032-03-31,FY,gen_nuclear_likely_NEP,117.6,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_nuclear_likely_NEP,4.4,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
+India,2031-04-01,2032-03-31,FY,gen_hydro_likely_NEP,246.2,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_hydro_likely_NEP,9.2,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
+India,2031-04-01,2032-03-31,FY,gen_pv_likely_NEP,665.6,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_pv_likely_NEP,25.0,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
+India,2031-04-01,2032-03-31,FY,gen_wind_likely_NEP,258.1,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_wind_likely_NEP,9.7,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
+India,2031-04-01,2032-03-31,FY,gen_other_re_likely_NEP,10.0,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_other_re_likely_NEP,0.4,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
+India,2031-04-01,2032-03-31,FY,gen_total_likely_NEP,2665.7,BU,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32' (hydro incl. hydro imports)
+India,2031-04-01,2032-03-31,FY,share_total_likely_NEP,100.0,%,GEN-CEA-NEP-2023,NEP 2022-32 Vol I 'Source Wise Likely Gross Generation (BU) in 2031-32'
