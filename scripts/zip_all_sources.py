@@ -64,8 +64,6 @@ class MultipartWriter:
 
 
 keys = [k for k in list_keys("") if not k.startswith("zip/")]
-code = [p for p in ROOT.rglob("*") if p.is_file() and not any(
-    part in {".git", ".venv", "__pycache__", ".playwright-mcp", "data"} for part in p.relative_to(ROOT).parts)]
 w = MultipartWriter(ZIP_KEY)
 total = 0
 try:
@@ -85,8 +83,12 @@ try:
                        data, compress_type=zipfile.ZIP_STORED if stored else zipfile.ZIP_DEFLATED)
             if i % 500 == 0:
                 print(f"{i}/{len(keys)} objects, {total/1e9:.2f} GB read", flush=True)
+        # list repo files only now (they may change while the bucket part streams)
+        code = [p for p in ROOT.rglob("*") if p.is_file() and not any(
+            part in {".git", ".venv", "__pycache__", ".playwright-mcp", "data"} for part in p.relative_to(ROOT).parts)]
         for p in code:
-            z.write(p, f"india-renewable-power-research/code/{p.relative_to(ROOT)}")
+            if p.exists():
+                z.write(p, f"india-renewable-power-research/code/{p.relative_to(ROOT)}")
     w.close()
 except BaseException:
     w.abort()
