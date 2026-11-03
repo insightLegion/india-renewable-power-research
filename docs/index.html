@@ -1,5 +1,10 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>India's Midday Surplus</title>
-<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Graphs and investigative findings on India's renewable curtailment, near-zero exchange prices, storage and grid constraints.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
@@ -29,6 +34,9 @@
   --solar: #ee8a55; --grid: #7fb0ea; --flag: #ef7f7f; --chip: #1d222a; color-scheme: dark;
 }
 * { box-sizing: border-box; }
+html { color-scheme: light; }
+body { margin: 0; }
+img { max-width: 100%; }
 body { background: var(--bg); color: var(--ink); font: 400 17px/1.65 var(--body); }
 .wrap { max-width: 1120px; margin: 0 auto; padding-block: 40px 72px;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
@@ -79,7 +87,8 @@ td.n { font-family: var(--mono); color: var(--flag); white-space: nowrap; }
 footer { padding-top: 56px; display: grid; gap: 10px; font-size: 0.9rem; color: var(--ink-2); }
 footer code { font-family: var(--mono); font-size: 0.84em; word-break: break-all; }
 </style>
-
+</head>
+<body>
 <div class="wrap">
   <header class="top">
     <p class="eyebrow">India power system · research notes · data to 3 Nov 2026</p>
@@ -205,3 +214,5 @@ footer code { font-family: var(--mono); font-size: 0.84em; word-break: break-all
     <p>Units: MU = million kWh = GWh. ₹1/kWh = ₹1,000/MWh. "Solar hours" means 09:00–17:00 IST. FY runs April to March.</p>
   </footer>
 </div>
+</body>
+</html>
